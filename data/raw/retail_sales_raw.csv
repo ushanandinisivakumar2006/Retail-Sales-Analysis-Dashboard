@@ -1,0 +1,1516 @@
+Order ID,Order Date,Product ID,Product Name,Category,Region,Quantity,Unit Price,Sales Amount
+ORD-2025-1001,2025-06-21,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,Central,2,1799.0,3598.0
+ORD-2025-1001,2025-06-21,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,Central,1,1299.0,1299.0
+ORD-2025-1002,2025-03-24,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,2,799.0,1598.0
+ORD-2025-1002,2025-03-24,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,2,7499.0,14998.0
+ORD-2025-1002,2025-03-24,PROD-EL-05,Noise Cancelling Headphones,Electronics, North ,1,5999.0,5999.0
+ORD-2025-1003,2025-12-24,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,West,1,1799.0,1799.0
+ORD-2025-1004,2025-03-22,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1005,2025-05-29,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,East,1,2799.0,2799.0
+ORD-2025-1006,2025-06-03,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,1,899.0,899.0
+ORD-2025-1006,2025-06-03,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1007,2025-09-02,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1007,2025-09-02,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,2199.0
+ORD-2025-1008,2025-12-07,PROD-EL-08,1TB High-Speed External SSD,Electronics,Central,1,7499.0,7499.0
+ORD-2025-1008,2025-12-07,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,Central,1,1999.0,1999.0
+ORD-2025-1009,2025-10-20,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,South,1,1299.0,1299.0
+ORD-2025-1010,2025-01-18,PROD-EL-07,Full HD 1080p Webcam,Electronics,Central,2,2499.0,4498.2
+ORD-2025-1011,2025-05-23,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1012,2025-12-23,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,3,2799.0,8397.0
+ORD-2025-1012,2025-12-23,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,2,2299.0,4598.0
+ORD-2025-1012,2025-12-23,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,4,7499.0,29996.0
+ORD-2025-1013,2025-02-15,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,1,899.0,899.0
+ORD-2025-1014,2025-06-09,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,,1,1899.0,1899.0
+ORD-2025-1014,2025-06-09,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,1,399.0,399.0
+ORD-2025-1015,2025-08-01,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,1,749.0,749.0
+ORD-2025-1015,2025-08-01,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,6,1899.0,11394.0
+ORD-2025-1016,2025-10-06,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,3,8999.0,26997.0
+ORD-2025-1017,2025-10-14,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,1,1199.0,1199.0
+ORD-2025-1017,2025-10-14,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen, West ,1,799.0,799.0
+ORD-2025-1018,2025-02-05,PROD-EL-07,Full HD 1080p Webcam,Electronics,West,1,2499.0,2499.0
+ORD-2025-1018,2025-02-05,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,1,749.0,749.0
+ORD-2025-1019,2025-05-11,PROD-EL-04,7-in-1 USB-C Hub Adapter,  Electronics  ,South,2,1799.0,3598.0
+ORD-2025-1019,2025-05-11,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,3,2199.0,6597.0
+ORD-2025-1020,2025-07-13,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,2,1799.0,3598.0
+ORD-2025-1020,2025-07-13,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,2,2899.0,
+ORD-2025-1021,2025-10-28,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,1,2899.0,2899.0
+ORD-2025-1022,2025-01-20,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,2,799.0,
+ORD-2025-1023,2025-05-26,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1023,2025-05-26,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1023,2025-05-26,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,2,699.0,1398.0
+ORD-2025-1024,2025-04-18,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,1,1799.0,1799.0
+ORD-2025-1025,2025-11-30,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,West,3,649.0,1947.0
+ORD-2025-1025,2025-11-30,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,3,2199.0,6597.0
+ORD-2025-1026,2025-03-18,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,West,3,4899.0,14697.0
+ORD-2025-1027,2025-11-27,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1028,2025-07-20,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1028,2025-07-20,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1028,2025-07-20,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,West,1,2899.0,2899.0
+ORD-2025-1029,2025-04-19,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,4,2499.0,9996.0
+ORD-2025-1030,2025-05-23,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,1,2199.0,2199.0
+ORD-2025-1030,2025-05-23,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,5,3499.0,17495.0
+ORD-2025-1031,2025-12-22,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,1,7499.0,7499.0
+ORD-2025-1032,2025-05-25,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1032,2025-05-25,PROD-EL-03,Portable Bluetooth Speaker,ELECTRONICS,North,1,2199.0,2199.0
+ORD-2025-1033,2025/05/28,PROD-EL-08,1TB High-Speed External SSD,Electronics,Central,1,7499.0,7499.0
+ORD-2025-1034,2025-07-28,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,Central,2,1799.0,3598.0
+ORD-2025-1035,2025-10-13,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1035,13/10/2025,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,2,699.0,1398.0
+ORD-2025-1036,2025-09-21,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,South,3,2299.0,6897.0
+ORD-2025-1037,2025-05-12,PROD-EL-06,Smart Fitness Watch,Electronics,North,2,3999.0,7998.0
+ORD-2025-1038,2025-09-12,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,2899.0
+ORD-2025-1039,2025-09-07,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1039,2025-09-07,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,4,799.0,3196.0
+ORD-2025-1040,2025-03-23,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,4,499.0,1996.0
+ORD-2025-1041,2025-11-21,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,3,2199.0,6597.0
+ORD-2025-1041,2025-11-21,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,2,849.0,1698.0
+ORD-2025-1042,2025-08-21,PROD-EL-06,Smart Fitness Watch,Electronics,North,3,3999.0,11997.0
+ORD-2025-1043,2025-11-18,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,1,1499.0,1499.0
+ORD-2025-1044,2025-10-08,PROD-EL-06,Smart Fitness Watch,Electronics,West,2,3999.0,7998.0
+ORD-2025-1044,2025-10-08,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,2,699.0,1398.0
+ORD-2025-1044,2025-10-08,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,West,1,649.0,649.0
+ORD-2025-1045,2025-03-09,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,1,399.0,399.0
+ORD-2025-1045,2025-03-09,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,1,8999.0,8999.0
+ORD-2025-1046,2025-09-18,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,1,7499.0,7499.0
+ORD-2025-1047,2025-10-22,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,2,1199.0,2398.0
+ORD-2025-1048,2025-04-27,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,2,749.0,
+ORD-2025-1048,2025-04-27,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,3,3499.0,10497.0
+ORD-2025-1049,2025-09-08,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,1,2299.0,2299.0
+ORD-2025-1050,2025-04-02,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,1899.0,1899.0
+ORD-2025-1050,2025-04-02,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,3,1199.0,3597.0
+ORD-2025-1050,2025-04-02,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,2,649.0,1298.0
+ORD-2025-1050,2025-04-02,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,2,799.0,1598.0
+ORD-2025-1051,2025-08-03,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,1,2499.0,2499.0
+ORD-2025-1052,2025-10-30,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,2,899.0,1798.0
+ORD-2025-1053,2025-03-29,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,Central,4,8999.0,35996.0
+ORD-2025-1053,2025-03-29,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,Central,1,1199.0,1199.0
+ORD-2025-1053,2025-03-29,PROD-EL-07,Full HD 1080p Webcam,Electronics,Central,1,2499.0,2499.0
+ORD-2025-1054,2025-11-21,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,5,1699.0,8495.0
+ORD-2025-1054,2025-11-21,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,SOUTH,3,649.0,1947.0
+ORD-2025-1054,2025-11-21,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,1,1299.0,1299.0
+ORD-2025-1055,2025-06-30,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,1,399.0,399.0
+ORD-2025-1056,2025-08-15,PROD-EL-05,Noise Cancelling Headphones,ELECTRONICS,Central,2,5999.0,11998.0
+ORD-2025-1056,2025-08-15,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,Central,1,799.0,799.0
+ORD-2025-1057,2025/09/05,PROD-EL-08,1TB High-Speed External SSD,Electronics,Central,1,7499.0,7499.0
+ORD-2025-1058,2025-11-24,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,2,2799.0,5598.0
+ORD-2025-1058,2025-11-24,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,West,1,799.0,799.0
+ORD-2025-1059,2025-05-24,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,3,899.0,2697.0
+ORD-2025-1059,24/05/2025,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,4,2299.0,9196.0
+ORD-2025-1060,2025-08-29,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,2,899.0,1798.0
+ORD-2025-1060,2025-08-29,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,2,649.0,1298.0
+ORD-2025-1061,2025/10/12,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,1,7499.0,7499.0
+ORD-2025-1062,2025-02-05,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,1,1999.0,1999.0
+ORD-2025-1063,2025-08-16,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,1,2199.0,2199.0
+ORD-2025-1064,2025-01-25,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-2025-1065,2025-08-28,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,West,2,1799.0,3598.0
+ORD-2025-1066,2025-02-05,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1067,2025-09-06,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1067,2025-09-06,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,West,1,499.0,499.0
+ORD-2025-1067,2025-09-06,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,2,2299.0,4598.0
+ORD-2025-1067,2025-09-06,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,1,849.0,849.0
+ORD-2025-1068,2025-07-03,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,5,649.0,3245.0
+ORD-2025-1069,2025-11-13,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,1,849.0,849.0
+ORD-2025-1070,2025-03-15,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,2,1999.0,3998.0
+ORD-2025-1071,2025-09-09,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,2,2799.0,5598.0
+ORD-2025-1071,2025-09-09,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,2,399.0,798.0
+ORD-2025-1071,2025-09-09,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,2,1299.0,2598.0
+ORD-2025-1072,2025-06-22,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,2,1499.0,2998.0
+ORD-2025-1073,2025-01-04,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1074,2025-11-29,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,1,2799.0,2799.0
+ORD-2025-1075,2025/07/25,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,1,799.0,799.0
+ORD-2025-1076,2025-06-25,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,1,399.0,399.0
+ORD-2025-1076,2025-06-25,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,1,1199.0,1199.0
+ORD-2025-1077,2025-09-04,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,South,2,4899.0,9798.0
+ORD-2025-1077,2025-09-04,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1078,2025-02-06,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,east,2,699.0,1258.2
+ORD-2025-1079,2025-12-01,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,2,1499.0,2998.0
+ORD-2025-1080,2025/07/29,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,1,1499.0,1499.0
+ORD-2025-1080,2025-07-29,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,East,5,799.0,3995.0
+ORD-2025-1080,2025-07-29,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,4,1999.0,7996.0
+ORD-2025-1081,2025-04-25,PROD-EL-06,Smart Fitness Watch,Electronics,North,1,3999.0,3999.0
+ORD-2025-1082,2025-02-17,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,1,1799.0,1799.0
+ORD-2025-1083,2025-11-28,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1083,2025-11-28,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1084,2025-10-27,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,2,399.0,798.0
+ORD-2025-1084,2025-10-27,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,3,1999.0,5997.0
+ORD-2025-1084,2025-10-27,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,1,849.0,849.0
+ORD-2025-1085,2025-03-07,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,6,5999.0,35994.0
+ORD-2025-1085,2025-03-07,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,West,1,2899.0,2899.0
+ORD-2025-1086,2025-06-25,PROD-EL-06,Smart Fitness Watch,Electronics,West,4,3999.0,15996.0
+ORD-2025-1087,2025-11-18,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,2,749.0,1498.0
+ORD-2025-1087,2025-11-18,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,1,1999.0,1999.0
+ORD-2025-1088,2025-11-30,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,South,1,1299.0,1299.0
+ORD-2025-1088,2025-11-30,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,3,849.0,2547.0
+ORD-2025-1089,2025-06-11,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,1,1699.0,1699.0
+ORD-2025-1089,2025-06-11,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1089,2025-06-11,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,5,1799.0,8995.0
+ORD-2025-1090,2025-12-30,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,East,1,2899.0,2899.0
+ORD-2025-1090,2025-12-30,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,East,1,1299.0,1299.0
+ORD-2025-1091,2025-05-27,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,1899.0,3798.0
+ORD-2025-1091,2025-05-27,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,2,4899.0,9798.0
+ORD-2025-1092,2025-02-08,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1093,2025/07/08,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1094,2025-03-19,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,1,2199.0,2199.0
+ORD-2025-1094,2025-03-19,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,1,1499.0,1499.0
+ORD-2025-1095,2025-10-16,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,2,2299.0,4598.0
+ORD-2025-1095,2025-10-16,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,2199.0
+ORD-2025-1096,2025-02-25,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,Central,1,2799.0,2799.0
+ORD-2025-1097,2025-11-25,PROD-EL-05,Noise Cancelling Headphones,Electronics,Central,2,5999.0,11998.0
+ORD-2025-1097,2025-11-25,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,1,499.0,499.0
+ORD-2025-1097,2025-11-25,PROD-FA-02,Slim Fit Denim Jeans,Fashion,Central,1,1699.0,1699.0
+ORD-2025-1097,2025-11-25,PROD-FA-04,Breathable Mesh Running Shoes,  Fashion  , Central ,2,2799.0,5598.0
+ORD-2025-1098,2025-08-06,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,1,799.0,799.0
+ORD-2025-1098,2025-08-06,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,1,1999.0,1999.0
+ORD-2025-1098,2025-08-06,PROD-BP-04,All-Natural Tea Tree Face Wash,beauty & personal care,South,1,399.0,399.0
+ORD-2025-1099,2025-07-20,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1100,2025-09-07,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,west,5,2799.0,13995.0
+ORD-2025-1101,2025-06-25,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1101,2025-06-25,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,5,8999.0,44995.0
+ORD-2025-1101,2025-06-25,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1102,2025-12-23,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1102,2025-12-23,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,6,649.0,3894.0
+ORD-2025-1102,23/12/2025,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1103,2025-08-21,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,Central,2,2899.0,5798.0
+ORD-2025-1104,2025-10-15,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,2,1299.0,2598.0
+ORD-2025-1104,2025-10-15,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,4,1999.0,7996.0
+ORD-2025-1105,2025-01-15,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,South,3,1799.0,5397.0
+ORD-2025-1105,2025-01-15,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,1,7499.0,7499.0
+ORD-2025-1105,2025-01-15,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,2,2199.0,4398.0
+ORD-2025-1106,2025-05-11,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1107,2025-08-19,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,6,2799.0,16794.0
+ORD-2025-1107,2025-08-19,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,2,7499.0,14998.0
+ORD-2025-1107,2025-08-19,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,1,899.0,899.0
+ORD-2025-1107,2025-08-19,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1108,2025-11-03,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,East,4,8999.0,35996.0
+ORD-2025-1109,2025-11-21,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,Central,2,3499.0,6998.0
+ORD-2025-1109,2025-11-21,PROD-EL-08,1TB High-Speed External SSD,Electronics,Central,1,7499.0,7499.0
+ORD-2025-1110,2025-12-03,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1111,2025-06-02,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1111,2025-06-02,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,2,1199.0,2398.0
+ORD-2025-1111,2025-06-02,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,1,2199.0,2199.0
+ORD-2025-1111,2025-06-02,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,West,5,1999.0,9995.0
+ORD-2025-1112,2025-11-08,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,West,1,799.0,799.0
+ORD-2025-1113,2025-05-22,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,3,1699.0,5097.0
+ORD-2025-1113,2025-05-22,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,6,2499.0,14994.0
+ORD-2025-1113,2025-05-22,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,6,2799.0,16794.0
+ORD-2025-1114,2025-08-05,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,3,1499.0,4497.0
+ORD-2025-1114,2025-08-05,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1114,2025-08-05,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,1,899.0,899.0
+ORD-2025-1115,2025-03-19,PROD-FA-02,Slim Fit Denim Jeans,Fashion,Central,1,1699.0,1699.0
+ORD-2025-1115,2025-03-19,PROD-EL-08,1TB High-Speed External SSD,Electronics,Central,2,7499.0,14998.0
+ORD-2025-1116,2025-09-26,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,2,1699.0,
+ORD-2025-1117,2025-08-26,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,3,2299.0,6897.0
+ORD-2025-1118,2025-08-07,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,1,1799.0,1799.0
+ORD-2025-1118,2025-08-07,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,East,1,499.0,499.0
+ORD-2025-1118,2025-08-07,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1119,2025-10-12,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1119,2025-10-12,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,1,699.0,699.0
+ORD-2025-1120,2025-01-28,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1121,2025-07-02,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,1,499.0,499.0
+ORD-2025-1122,2025-10-21,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,3,399.0,1197.0
+ORD-2025-1122,2025-10-21,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,South,4,1799.0,7196.0
+ORD-2025-1123,2025-03-02,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,Central,1,649.0,649.0
+ORD-2025-1124,2025-07-24,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,Central,1,1199.0,1199.0
+ORD-2025-1125,2025-09-26,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,1,399.0,399.0
+ORD-2025-1126,2025-03-04,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,2,7499.0,14998.0
+ORD-2025-1127,2025-03-07,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1127,2025-03-07,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,2,2799.0,5598.0
+ORD-2025-1127,2025-03-07,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,1,699.0,699.0
+ORD-2025-1128,2025-04-05,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1129,2025-03-06,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1130,2025-04-15,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,2,7499.0,14998.0
+ORD-2025-1131,2025-01-28,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,1,2199.0,2199.0
+ORD-2025-1131,2025-01-28,PROD-FA-01,Organic Cotton Crewneck T-Shirt,  Fashion  ,West,3,699.0,2097.0
+ORD-2025-1132,2025-11-26,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,,3,399.0,1197.0
+ORD-2025-1133,2025-10-28,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,1,2799.0,2799.0
+ORD-2025-1134,2025-07-04,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-2025-1135,2025-10-21,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,2,2799.0,5598.0
+ORD-2025-1136,2025-11-27,PROD-EL-01,Wireless Ergonomic Mouse,electronics ,South,1,1299.0,1299.0
+ORD-2025-1137,2025-07-03,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1138,2025-06-28,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,1,7499.0,7499.0
+ORD-2025-1139,2025-05-06,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,2,2299.0,4598.0
+ORD-2025-1139,2025-05-06,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,2,1699.0,
+ORD-2025-1139,06/05/2025,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,2,2499.0,4998.0
+ORD-2025-1140,2025-07-28,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,2,649.0,1298.0
+ORD-2025-1141,2025-10-29,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1142,2025/06/06,PROD-HK-05,Ceramic Coffee Mug (Set of 4),HOME & KITCHEN,East,1,649.0,649.0
+ORD-2025-1143,2025-12-01,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,East,1,649.0,649.0
+ORD-2025-1144,2025-03-09,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,1899.0,1899.0
+ORD-2025-1145,2025-05-26,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,1,699.0,699.0
+ORD-2025-1145,2025-05-26,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1145,2025-05-26,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1146,2025-12-23,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,5,1499.0,7495.0
+ORD-2025-1147,2025-11-26,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,1,2799.0,2799.0
+ORD-2025-1148,2025-09-22,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,Central,2,8999.0,17998.0
+ORD-2025-1149,2025-05-16,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1150,2025-07-07,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,South,1,4899.0,4899.0
+ORD-2025-1151,2025-09-07,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1152,2025-07-19,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1153,2025-03-18,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,1,3499.0,
+ORD-2025-1153,2025-03-18,PROD-OS-05,Architect LED Desk Lamp,Office Supplies, North ,3,1499.0,4497.0
+ORD-2025-1153,2025-03-18,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1153,2025-03-18,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,2,899.0,1798.0
+ORD-2025-1154,2025-10-16,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,1,1999.0,1999.0
+ORD-2025-1155,2025-05-30,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,Central,5,399.0,1995.0
+ORD-2025-1155,2025-05-30,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,Central,1,1999.0,1999.0
+ORD-2025-1156,2025-10-06,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,Central,1,3499.0,3499.0
+ORD-2025-1157,2025-10-31,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,1,1999.0,1999.0
+ORD-2025-1157,2025-10-31,PROD-EL-03,Portable Bluetooth Speaker,electronics ,East,2,2199.0,4398.0
+ORD-2025-1158,2025-04-28,PROD-EL-06,Smart Fitness Watch,Electronics,North,3,3999.0,11997.0
+ORD-2025-1159,2025-09-03,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,3,849.0,2547.0
+ORD-2025-1160,2025-06-03,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,,1,499.0,499.0
+ORD-2025-1161,2025-07-28,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,1,7499.0,7499.0
+ORD-2025-1161,2025-07-28,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,1,649.0,649.0
+ORD-2025-1162,2025-11-04,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,4,1299.0,5196.0
+ORD-2025-1163,2025-09-19,PROD-EL-08,1TB High-Speed External SSD,  Electronics  ,North,2,7499.0,14998.0
+ORD-2025-1163,2025-09-19,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,1,899.0,899.0
+ORD-2025-1163,2025-09-19,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1164,2025-10-02,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,3,849.0,2547.0
+ORD-2025-1165,2025-10-03,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1166,2025-10-22,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,2,899.0,1798.0
+ORD-2025-1167,2025-11-19,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,1,1999.0,1999.0
+ORD-2025-1167,2025-11-19,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,3,1199.0,3597.0
+ORD-2025-1168,2025-03-30,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,1,799.0,799.0
+ORD-2025-1168,2025-03-30,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1169,2025-10-22,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,2,8999.0,17998.0
+ORD-2025-1169,2025/10/22,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,1,1199.0,1199.0
+ORD-2025-1170,2025-04-08,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,4,799.0,3196.0
+ORD-2025-1171,2025-08-13,PROD-EL-05,Noise Cancelling Headphones,Electronics,South,4,5999.0,23996.0
+ORD-2025-1172,2025-03-22,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,2,399.0,798.0
+ORD-2025-1173,2025-01-10,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,2,699.0,1398.0
+ORD-2025-1173,2025-01-10,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,2,1199.0,2398.0
+ORD-2025-1173,2025-01-10,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,4,749.0,2996.0
+ORD-2025-1174,2025-10-30,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,2,2199.0,4398.0
+ORD-2025-1175,2025-07-01,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,,4,699.0,2796.0
+ORD-2025-1175,2025-07-01,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,1,849.0,849.0
+ORD-2025-1175,2025-07-01,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,1,899.0,899.0
+ORD-2025-1176,2025-12-04,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,4,2199.0,8796.0
+ORD-2025-1177,2025-11-18,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1178,2025-01-17,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,1,799.0,799.0
+ORD-2025-1178,2025-01-17,PROD-EL-05,Noise Cancelling Headphones,Electronics,South,1,5999.0,5999.0
+ORD-2025-1179,2025-06-30,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,1,2899.0,2899.0
+ORD-2025-1179,2025-06-30,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,1,1299.0,1299.0
+ORD-2025-1179,2025/06/30,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,2,2199.0,4398.0
+ORD-2025-1180,2025-07-29,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,1,7499.0,7499.0
+ORD-2025-1181,2025-03-12,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,South,4,4899.0,19596.0
+ORD-2025-1182,2025-06-06,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,1,699.0,629.1
+ORD-2025-1182,2025-06-06,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,2,2299.0,4598.0
+ORD-2025-1183,2025-03-18,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,Central,1,8999.0,8999.0
+ORD-2025-1184,2025-02-10,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,Central,-1,849.0,1698.0
+ORD-2025-1185,2025-02-26,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,3,399.0,1197.0
+ORD-2025-1186,2025-04-17,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1187,2025-08-22,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,
+ORD-2025-1187,2025-08-22,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,1,2799.0,2799.0
+ORD-2025-1188,2025-07-10,PROD-OS-03,A5 Hardcover Dotted Journal,office supplies,South,1,499.0,499.0
+ORD-2025-1189,2025-03-04,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1189,2025-03-04,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1189,2025-03-04,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,WEST,2,799.0,1598.0
+ORD-2025-1190,2025-06-04,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,2,1299.0,2598.0
+ORD-2025-1191,2025-09-04,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,1499.0
+ORD-2025-1192,2025-09-18,PROD-EL-05,Noise Cancelling Headphones,Electronics,North,2,5999.0,11998.0
+ORD-2025-1193,2025-03-09,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,1,4899.0,4899.0
+ORD-2025-1194,2025-04-20,PROD-EL-07,Full HD 1080p Webcam,Electronics,West,3,2499.0,7497.0
+ORD-2025-1194,2025-04-20,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,1,8999.0,8999.0
+ORD-2025-1195,2025/09/11,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,3,2499.0,7497.0
+ORD-2025-1196,2025-01-22,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1197,2025-03-28,PROD-HK-01,Stainless Steel Insulated Bottle,HOME & KITCHEN,East,3,799.0,2397.0
+ORD-2025-1198,2025-11-17,PROD-FA-02,Slim Fit Denim Jeans,fashion,South,1,1699.0,1699.0
+ORD-2025-1199,2025-09-09,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,1,1299.0,1299.0
+ORD-2025-1199,2025-09-09,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,2,399.0,798.0
+ORD-2025-1200,2025-07-02,PROD-EL-03,Portable Bluetooth Speaker,Electronics,SOUTH,2,2199.0,4398.0
+ORD-2025-1200,2025-07-02,PROD-OS-02,Premium Gel Pen Set (Pack of 12),OFFICE SUPPLIES,South,1,399.0,399.0
+ORD-2025-1200,2025-07-02,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,3,2299.0,6897.0
+ORD-2025-1201,2025-07-27,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,WEST,1,799.0,799.0
+ORD-2025-1201,2025-07-27,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-2025-1202,2025/04/01,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,1,1199.0,1199.0
+ORD-2025-1202,2025-04-01,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,1,749.0,749.0
+ORD-2025-1203,2025-11-05,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,Central,1,399.0,399.0
+ORD-2025-1204,2025-05-09,PROD-EL-06,Smart Fitness Watch,Electronics,North,1,3999.0,3999.0
+ORD-2025-1204,2025-05-09,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,2,1499.0,2998.0
+ORD-2025-1204,2025-05-09,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,1,699.0,699.0
+ORD-2025-1205,2025-08-18,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,East,1,8999.0,8999.0
+ORD-2025-1205,2025/08/18,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1206,2025-03-18,PROD-EL-01,Wireless Ergonomic Mouse,electronics,Central,2,1299.0,2598.0
+ORD-2025-1206,2025-03-18,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,Central,2,1799.0,3598.0
+ORD-2025-1206,2025-03-18,PROD-EL-03,Portable Bluetooth Speaker,Electronics,Central,2,2199.0,4398.0
+ORD-2025-1207,2025-03-31,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,Central,1,1299.0,1299.0
+ORD-2025-1208,2025-08-23,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,2,1299.0,2598.0
+ORD-2025-1209,2025-02-05,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,East,1,2799.0,2799.0
+ORD-2025-1210,2025-05-02,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,South,1,2299.0,2299.0
+ORD-2025-1210,2025-05-02,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,2,2899.0,5798.0
+ORD-2025-1211,2025-07-19,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,EAST,2,2799.0,5598.0
+ORD-2025-1211,2025-07-19,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,1,5999.0,5999.0
+ORD-2025-1211,2025-07-19,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1212,2025-04-05,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-2025-1213,2025-09-10,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,1,2899.0,2899.0
+ORD-2025-1213,2025-09-10,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,1,1299.0,1299.0
+ORD-2025-1214,2025-10-30,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,SOUTH,1,1899.0,1899.0
+ORD-2025-1214,2025-10-30,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1215,2025-11-02,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1215,2025-11-02,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,West,2,2899.0,5798.0
+ORD-2025-1216,2025-06-07,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1216,2025-06-07,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,5,7499.0,37495.0
+ORD-2025-1216,2025-06-07,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,1,1799.0,1799.0
+ORD-2025-1217,2025-03-12,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,2,749.0,1498.0
+ORD-2025-1217,2025-03-12,PROD-FA-04,Breathable Mesh Running Shoes,FASHION,East,3,2799.0,8397.0
+ORD-2025-1217,2025-03-12,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,East,2,1299.0,2598.0
+ORD-2025-1218,2025-10-28,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,1,2299.0,2299.0
+ORD-2025-1219,2025-04-20,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,Central,1,1499.0,1499.0
+ORD-2025-1219,2025-04-20,PROD-EL-05,Noise Cancelling Headphones,Electronics,Central,2,5999.0,11998.0
+ORD-2025-1219,2025-04-20,PROD-EL-08,1TB High-Speed External SSD,Electronics,Central,4,7499.0,29996.0
+ORD-2025-1220,2025-03-28,PROD-EL-06,Smart Fitness Watch,Electronics,East,1,3999.0,3999.0
+ORD-2025-1220,2025-03-28,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,1899.0,3798.0
+ORD-2025-1220,2025-03-28,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,East,1,1299.0,1299.0
+ORD-2025-1221,2025-11-14,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,Central,1,1299.0,1299.0
+ORD-2025-1221,2025-11-14,PROD-EL-06,Smart Fitness Watch,Electronics,Central,3,3999.0,11997.0
+ORD-2025-1221,2025-11-14,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,Central,3,1499.0,4497.0
+ORD-2025-1222,2025-05-30,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,2,1199.0,2398.0
+ORD-2025-1223,2025-04-26,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,2,2299.0,4598.0
+ORD-2025-1224,2025-05-26,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,West,1,499.0,499.0
+ORD-2025-1225,2025-08-28,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,2,1499.0,2998.0
+ORD-2025-1226,2025-11-26,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,1,7499.0,7499.0
+ORD-2025-1227,2025-11-09,PROD-EL-06,Smart Fitness Watch,Electronics,North,1,3999.0,3999.0
+ORD-2025-1227,2025-11-09,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,4,1899.0,7596.0
+ORD-2025-1227,2025-11-09,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,2,8999.0,17998.0
+ORD-2025-1228,2025-12-04,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen, South ,1,649.0,649.0
+ORD-2025-1228,2025-12-04,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1229,2025-09-02,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,2,399.0,798.0
+ORD-2025-1229,2025-09-02,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,1,1699.0,1699.0
+ORD-2025-1229,2025-09-02,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,1,7499.0,7499.0
+ORD-2025-1229,2025-09-02,PROD-EL-07,Full HD 1080p Webcam,Electronics,West,2,2499.0,4998.0
+ORD-2025-1230,2025-04-27,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,1,699.0,699.0
+ORD-2025-1231,2025-05-12,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1232,2025-12-27,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,south,2,1899.0,3798.0
+ORD-2025-1233,2025-04-28,PROD-EL-08,1TB High-Speed External SSD,Electronics,Central,1,7499.0,7499.0
+ORD-2025-1233,2025-04-28,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,Central,1,1299.0,1299.0
+ORD-2025-1234,2025-11-22,PROD-EL-07,Full HD 1080p Webcam,ELECTRONICS,Central,2,2499.0,4998.0
+ORD-2025-1235,2025-03-13,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,Central,4,1199.0,4796.0
+ORD-2025-1236,2025-09-09,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,East,1,399.0,399.0
+ORD-2025-1237,2025-03-03,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,2,749.0,1498.0
+ORD-2025-1238,2025-06-09,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,3,2899.0,7827.3
+ORD-2025-1238,2025-06-09,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,4,399.0,1596.0
+ORD-2025-1238,2025-06-09,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,6,1999.0,11994.0
+ORD-2025-1239,2025-03-13,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,2,499.0,998.0
+ORD-2025-1239,2025-03-13,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,South,1,2299.0,2299.0
+ORD-2025-1240,2025-11-18,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1241,2025-09-01,PROD-EL-04,7-in-1 USB-C Hub Adapter,ELECTRONICS,East,3,1799.0,5397.0
+ORD-2025-1242,2025-04-29,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,5,799.0,3995.0
+ORD-2025-1242,2025-04-29,PROD-EL-06,Smart Fitness Watch,Electronics,North,3,3999.0,11997.0
+ORD-2025-1242,2025-04-29,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,3,899.0,2697.0
+ORD-2025-1243,2025-09-09,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-2025-1244,2025-06-04,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1244,2025-06-04,PROD-HK-06,500W High Speed Smoothie Blender,  Home & Kitchen  ,North,1,2299.0,2299.0
+ORD-2025-1245,2025-04-12,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,3,1499.0,4497.0
+ORD-2025-1246,2025-07-26,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,3,1199.0,3597.0
+ORD-2025-1247,2025-05-14,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,1,849.0,849.0
+ORD-2025-1248,2025-11-17,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,West,3,1799.0,5397.0
+ORD-2025-1248,2025-11-17,PROD-HK-05,Ceramic Coffee Mug (Set of 4),home & kitchen,West,3,649.0,1947.0
+ORD-2025-1249,2025-10-29,PROD-FA-05,Genuine Leather Reversible Belt,FASHION,West,2,899.0,1798.0
+ORD-2025-1249,2025-10-29,PROD-EL-07,Full HD 1080p Webcam,Electronics,West,2,2499.0,4998.0
+ORD-2025-1250,2025-10-09,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,3,3499.0,10497.0
+ORD-2025-1250,2025/10/09,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1250,2025-10-09,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,north,3,2299.0,6897.0
+ORD-2025-1251,2025/03/01,PROD-FA-03,Fleece Zip-Up Hoodie,fashion ,South,1,1999.0,1999.0
+ORD-2025-1251,2025-03-01,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,3,1899.0,5697.0
+ORD-2025-1252,2025-11-18,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,1,499.0,499.0
+ORD-2025-1253,2025-09-24,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,Central,1,1499.0,1499.0
+ORD-2025-1253,2025-09-24,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,2,499.0,998.0
+ORD-2025-1254,2025/08/07,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,West,2,2899.0,5798.0
+ORD-2025-1255,2025-08-14,PROD-EL-03,Portable Bluetooth Speaker,Electronics,Central,2,2199.0,4398.0
+ORD-2025-1256,2025-12-31,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,2,499.0,998.0
+ORD-2025-1256,31/12/2025,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1256,2025-12-31,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1257,2025-10-11,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1258,2025-09-28,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,5,1799.0,8995.0
+ORD-2025-1258,2025-09-28,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,5,1499.0,7495.0
+ORD-2025-1258,2025-09-28,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,2,1299.0,
+ORD-2025-1259,2025-03-10,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,West,1,1999.0,1999.0
+ORD-2025-1260,2025-05-10,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies, South ,2,499.0,998.0
+ORD-2025-1260,2025-05-10,PROD-HK-06,500W High Speed Smoothie Blender,home & kitchen,South,1,2299.0,2299.0
+ORD-2025-1261,2025-05-11,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,Central,1,649.0,649.0
+ORD-2025-1262,2025-03-23,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,West,1,4899.0,4899.0
+ORD-2025-1262,2025-03-23,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,1,2799.0,2799.0
+ORD-2025-1263,2025-10-05,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,5,2499.0,12495.0
+ORD-2025-1264,2025-03-14,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,1,499.0,499.0
+ORD-2025-1264,2025-03-14,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,2,649.0,1298.0
+ORD-2025-1264,2025-03-14,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1265,29/05/2025,PROD-EL-06,Smart Fitness Watch,Electronics,Central,3,3999.0,11997.0
+ORD-2025-1266,2025-04-20,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,,2,899.0,1798.0
+ORD-2025-1267,2025/06/10,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,West,5,649.0,3245.0
+ORD-2025-1268,2025-03-18,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,West,2,2299.0,4598.0
+ORD-2025-1268,2025-03-18,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,West,3,1299.0,3897.0
+ORD-2025-1269,2025-10-10,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,1,4899.0,4899.0
+ORD-2025-1270,2025-11-07,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1270,2025-11-07,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,1,1899.0,1899.0
+ORD-2025-1271,2025-03-19,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,1,849.0,849.0
+ORD-2025-1272,2025-07-21,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1273,2025-10-15,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,1,699.0,699.0
+ORD-2025-1274,2025-02-15,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,2,499.0,998.0
+ORD-2025-1275,2025-05-07,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,2,1999.0,3998.0
+ORD-2025-1275,2025-05-07,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,1,1699.0,1699.0
+ORD-2025-1275,2025-05-07,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,1,1899.0,1899.0
+ORD-2025-1276,2025-02-26,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,
+ORD-2025-1276,2025/02/26,PROD-EL-06,Smart Fitness Watch,Electronics,North,1,3999.0,3999.0
+ORD-2025-1276,2025-02-26,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,2,499.0,998.0
+ORD-2025-1276,2025-02-26,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,2,2199.0,4398.0
+ORD-2025-1277,2025-08-10,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,1,1999.0,1999.0
+ORD-2025-1278,2025-02-22,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1279,2025-06-20,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,2,1199.0,2398.0
+ORD-2025-1280,2025-10-03,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,2299.0
+ORD-2025-1281,2025-09-25,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,4,7499.0,29996.0
+ORD-2025-1282,2025-01-22,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,3,4899.0,14697.0
+ORD-2025-1282,2025-01-22,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,2,7499.0,14998.0
+ORD-2025-1283,2025-10-26,PROD-EL-07,Full HD 1080p Webcam,ELECTRONICS,South,1,2499.0,2499.0
+ORD-2025-1283,2025-10-26,PROD-EL-05,Noise Cancelling Headphones,Electronics,South,3,5999.0,17997.0
+ORD-2025-1284,2025-08-01,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,2,3499.0,6998.0
+ORD-2025-1285,2025-08-08,PROD-FA-02,Slim Fit Denim Jeans,  Fashion  ,West,1,1699.0,1699.0
+ORD-2025-1286,2025-04-20,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,1,399.0,399.0
+ORD-2025-1286,2025-04-20,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,5,749.0,3745.0
+ORD-2025-1286,2025-04-20,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,2199.0
+ORD-2025-1287,2025-03-15,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,1,2299.0,2299.0
+ORD-2025-1287,2025-03-15,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,2,1299.0,2598.0
+ORD-2025-1288,2025-10-21,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,5,899.0,4495.0
+ORD-2025-1288,2025-10-21,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,2,2499.0,4998.0
+ORD-2025-1288,2025-10-21,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1288,2025-10-21,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,2,649.0,1298.0
+ORD-2025-1289,2025-02-16,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,1,649.0,649.0
+ORD-2025-1290,2025-11-08,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1290,2025-11-08,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,1,399.0,399.0
+ORD-2025-1291,2025-06-23,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,Central,3,1299.0,3897.0
+ORD-2025-1292,2025/08/29,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1292,2025-08-29,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,3,399.0,1197.0
+ORD-2025-1293,2025-11-25,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,2,1299.0,2598.0
+ORD-2025-1294,2025-11-04,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,2,749.0,1498.0
+ORD-2025-1294,2025-11-04,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,2,2299.0,4598.0
+ORD-2025-1295,2025-03-08,PROD-EL-06,Smart Fitness Watch,Electronics,West,1,3999.0,3999.0
+ORD-2025-1295,2025-03-08,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1295,2025-03-08,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,5,8999.0,44995.0
+ORD-2025-1296,2025-03-17,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,1,699.0,699.0
+ORD-2025-1297,2025-11-02,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,1,2799.0,2799.0
+ORD-2025-1298,2025-09-08,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,5,399.0,1995.0
+ORD-2025-1299,2025-04-04,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,2,699.0,1398.0
+ORD-2025-1300,2025-03-05,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,1,1899.0,1899.0
+ORD-2025-1301,2025-02-15,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1302,2025-11-17,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,2,2799.0,5598.0
+ORD-2025-1303,2025-10-20,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1304,2025-10-31,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,,3,749.0,2247.0
+ORD-2025-1305,2025-10-29,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,1,699.0,699.0
+ORD-2025-1305,2025-10-29,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,1,849.0,849.0
+ORD-2025-1305,2025-10-29,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,1,2299.0,2299.0
+ORD-2025-1306,2025-01-24,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,1,1299.0,1299.0
+ORD-2025-1306,2025-01-24,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,1,1999.0,1999.0
+ORD-2025-1306,2025-01-24,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1307,2025-12-27,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,1,2799.0,2799.0
+ORD-2025-1308,2025-03-15,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,Central,1,1299.0,1299.0
+ORD-2025-1308,2025-03-15,PROD-EL-06,Smart Fitness Watch,Electronics,Central,5,3999.0,19995.0
+ORD-2025-1308,2025-03-15,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,Central,2,1499.0,2998.0
+ORD-2025-1309,2025-11-28,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,1,1699.0,1699.0
+ORD-2025-1310,2025-09-15,PROD-HK-01,Stainless Steel Insulated Bottle,  Home & Kitchen  ,North,1,799.0,799.0
+ORD-2025-1311,2025-10-25,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,5,7499.0,37495.0
+ORD-2025-1311,2025-10-25,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,2299.0
+ORD-2025-1312,2025-09-21,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,1,799.0,799.0
+ORD-2025-1312,2025-09-21,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,2,749.0,1498.0
+ORD-2025-1312,2025-09-21,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,3,1999.0,5997.0
+ORD-2025-1313,2025-12-16,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,2,399.0,798.0
+ORD-2025-1314,2025-11-08,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,East,4,799.0,3196.0
+ORD-2025-1315,2025-10-15,PROD-EL-03,Portable Bluetooth Speaker,Electronics,East,2,2199.0,4398.0
+ORD-2025-1316,2025-06-23,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,2,4899.0,9798.0
+ORD-2025-1317,2025-12-08,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1317,2025-12-08,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,3,1199.0,3597.0
+ORD-2025-1317,2025-12-08,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,2,1299.0,2598.0
+ORD-2025-1317,2025-12-08,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,2,2799.0,5598.0
+ORD-2025-1318,2025-10-03,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1319,2025-09-05,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,2,7499.0,14998.0
+ORD-2025-1319,2025/09/05,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,West,1,649.0,649.0
+ORD-2025-1320,2025-11-23,PROD-EL-05,Noise Cancelling Headphones,Electronics,North,1,5999.0,5999.0
+ORD-2025-1321,2025-05-23,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,2,2499.0,4998.0
+ORD-2025-1322,2025-06-03,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,south,1,2299.0,2299.0
+ORD-2025-1323,2025/04/14,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,2,1199.0,2398.0
+ORD-2025-1323,2025-04-14,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,2,2799.0,5598.0
+ORD-2025-1324,2025-07-15,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen, South ,1,2299.0,2299.0
+ORD-2025-1324,2025-07-15,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1324,2025-07-15,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1325,2025-05-27,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,2,2299.0,4598.0
+ORD-2025-1326,2025-08-13,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,East,3,1299.0,3897.0
+ORD-2025-1326,2025-08-13,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,2,749.0,1498.0
+ORD-2025-1327,2025-12-19,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1328,2025-09-01,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,4,399.0,1596.0
+ORD-2025-1329,2025-02-25,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,Central,1,899.0,899.0
+ORD-2025-1330,2025-07-13,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,1,1699.0,1699.0
+ORD-2025-1331,2025-10-01,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,2,2899.0,5798.0
+ORD-2025-1332,2025-10-10,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,1,749.0,749.0
+ORD-2025-1333,2025-03-13,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,East,1,399.0,399.0
+ORD-2025-1334,2025-10-29,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,2299.0
+ORD-2025-1335,2025-12-14,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,2,2799.0,5598.0
+ORD-2025-1335,2025-12-14,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1336,2025-09-24,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,Central,3,2799.0,8397.0
+ORD-2025-1336,2025-09-24,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,3,1899.0,5697.0
+ORD-2025-1337,2025-04-20,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,1,1299.0,
+ORD-2025-1337,2025-04-20,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,3,7499.0,22497.0
+ORD-2025-1338,2025-11-16,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,2,7499.0,14998.0
+ORD-2025-1339,2025-05-09,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,2,2299.0,4598.0
+ORD-2025-1340,2025-02-16,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,East,2,1299.0,2598.0
+ORD-2025-1341,2025-03-13,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,1,1199.0,
+ORD-2025-1341,2025-03-13,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,West,1,499.0,499.0
+ORD-2025-1341,2025-03-13,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1342,2025-09-13,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,1,1499.0,1499.0
+ORD-2025-1343,2025/06/06,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,6,2299.0,13794.0
+ORD-2025-1344,2025-03-15,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,1,5999.0,5999.0
+ORD-2025-1345,2025-10-20,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,East,1,2799.0,2799.0
+ORD-2025-1345,2025-10-20,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,east,1,1299.0,1299.0
+ORD-2025-1345,2025-10-20,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,East,2,649.0,1298.0
+ORD-2025-1345,2025-10-20,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,East,2,899.0,1798.0
+ORD-2025-1346,2025-05-19,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,3,499.0,1497.0
+ORD-2025-1347,2025-04-01,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,1,2199.0,2199.0
+ORD-2025-1348,2025-02-21,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,3,2299.0,6897.0
+ORD-2025-1349,2025-04-05,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,East,2,399.0,798.0
+ORD-2025-1349,2025-04-05,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,1,699.0,699.0
+ORD-2025-1349,2025-04-05,PROD-EL-06,Smart Fitness Watch,Electronics,East,1,3999.0,
+ORD-2025-1350,2025-05-02,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,East,2,799.0,1598.0
+ORD-2025-1350,2025-05-02,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,East,2,649.0,1298.0
+ORD-2025-1350,2025-05-02,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,2,1199.0,2398.0
+ORD-2025-1350,2025-05-02,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,1,2499.0,2499.0
+ORD-2025-1351,2025-02-15,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,1,1199.0,1199.0
+ORD-2025-1351,2025-02-15,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,2,749.0,1498.0
+ORD-2025-1351,2025-02-15,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,East,1,1299.0,1299.0
+ORD-2025-1352,2025-08-13,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,2,799.0,1598.0
+ORD-2025-1353,2025-05-25,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,4,2299.0,9196.0
+ORD-2025-1353,2025-05-25,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1354,2025-06-09,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,4,2299.0,9196.0
+ORD-2025-1354,2025-06-09,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,2199.0
+ORD-2025-1354,2025-06-09,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,3,1699.0,5097.0
+ORD-2025-1354,2025-06-09,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1355,2025-09-24,PROD-FA-04,Breathable Mesh Running Shoes,Fashion, North ,1,2799.0,2799.0
+ORD-2025-1355,2025-09-24,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,3,3499.0,10497.0
+ORD-2025-1356,2025-10-31,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,West,1,2899.0,2899.0
+ORD-2025-1357,2025-04-08,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,4,399.0,1596.0
+ORD-2025-1358,2025-08-03,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1359,2025-09-21,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1359,2025-09-21,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,6,749.0,4494.0
+ORD-2025-1359,2025-09-21,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,South,3,1299.0,3897.0
+ORD-2025-1360,2025-04-08,PROD-EL-07,Full HD 1080p Webcam,Electronics,Central,3,2499.0,7497.0
+ORD-2025-1361,2025-06-27,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,West,3,1299.0,3897.0
+ORD-2025-1361,2025-06-27,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,2,849.0,1698.0
+ORD-2025-1361,2025-06-27,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,
+ORD-2025-1362,2025-02-08,PROD-EL-05,Noise Cancelling Headphones,Electronics,South,2,5999.0,11998.0
+ORD-2025-1363,2025-05-16,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,3,499.0,
+ORD-2025-1363,2025-05-16,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,Central,1,1799.0,1799.0
+ORD-2025-1364,2025-11-19,PROD-EL-07,Full HD 1080p Webcam,Electronics,Central,2,2499.0,4998.0
+ORD-2025-1365,2025-10-15,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1366,2025-03-09,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1367,2025-03-12,PROD-EL-06,Smart Fitness Watch,Electronics,Central,5,3999.0,19995.0
+ORD-2025-1368,2025-07-20,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,1,849.0,849.0
+ORD-2025-1369,2025-02-24,PROD-OS-04,Ergonomic High-Back Mesh Chair,office supplies ,East,2,8999.0,17998.0
+ORD-2025-1370,04/09/2025,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,2,749.0,1498.0
+ORD-2025-1371,2025-07-27,PROD-EL-06,Smart Fitness Watch,Electronics,North,1,3999.0,3999.0
+ORD-2025-1371,2025-07-27,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,2,4899.0,9798.0
+ORD-2025-1371,2025-07-27,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,6,1799.0,10794.0
+ORD-2025-1371,2025-07-27,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,1,899.0,899.0
+ORD-2025-1372,2025-03-01,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,north,1,4899.0,4899.0
+ORD-2025-1373,2025-10-19,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,6,499.0,2994.0
+ORD-2025-1374,2025-11-30,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,East,2,649.0,1298.0
+ORD-2025-1375,2025-08-13,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,3,8999.0,26997.0
+ORD-2025-1376,2025-07-07,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,2199.0
+ORD-2025-1377,2025-11-19,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,1,8999.0,8999.0
+ORD-2025-1377,2025-11-19,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,West,1,2299.0,2299.0
+ORD-2025-1378,2025-07-21,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,2,7499.0,14998.0
+ORD-2025-1379,2025-03-04,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,1,8999.0,8999.0
+ORD-2025-1380,2025-04-25,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,Central,5,4899.0,24495.0
+ORD-2025-1380,2025-04-25,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,Central,1,399.0,399.0
+ORD-2025-1381,2025/02/22,PROD-OS-01,Dual-Sided PU Leather Desk Mat,OFFICE SUPPLIES,East,3,849.0,2547.0
+ORD-2025-1382,2025-02-26,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,South,1,1799.0,1799.0
+ORD-2025-1383,2025-10-26,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,1,899.0,899.0
+ORD-2025-1384,2025-07-26,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,5,3499.0,17495.0
+ORD-2025-1384,2025-07-26,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen, West ,2,2899.0,5798.0
+ORD-2025-1384,2025-07-26,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,1,2799.0,2799.0
+ORD-2025-1385,2025-10-14,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,3,499.0,1497.0
+ORD-2025-1386,2025-01-12,PROD-EL-03,Portable Bluetooth Speaker,Electronics,Central,2,2199.0,4398.0
+ORD-2025-1387,2025-09-17,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,2,399.0,798.0
+ORD-2025-1387,2025-09-17,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,1,1199.0,1199.0
+ORD-2025-1388,2025-08-01,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,1,399.0,399.0
+ORD-2025-1388,2025-08-01,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,,2,2299.0,4598.0
+ORD-2025-1389,2025-01-27,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,1,1699.0,1699.0
+ORD-2025-1389,2025-01-27,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,1,1799.0,1799.0
+ORD-2025-1390,2025-01-14,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,Central,1,2899.0,2899.0
+ORD-2025-1390,2025-01-14,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,central,1,399.0,399.0
+ORD-2025-1391,2025-05-29,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,West,1,2299.0,2299.0
+ORD-2025-1391,2025-05-29,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,1,699.0,699.0
+ORD-2025-1392,2025-02-23,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,1,5999.0,5999.0
+ORD-2025-1392,2025-02-23,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1393,2025-02-06,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,Central,2,1499.0,2998.0
+ORD-2025-1394,2025-09-17,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1395,2025-09-09,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,1,849.0,849.0
+ORD-2025-1395,2025-09-09,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1396,2025-12-30,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,5,2799.0,13995.0
+ORD-2025-1397,2025-09-25,PROD-FA-02,Slim Fit Denim Jeans,Fashion, East ,3,1699.0,5097.0
+ORD-2025-1397,2025-09-25,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,2,699.0,1398.0
+ORD-2025-1398,2025-03-14,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,South,1,2299.0,2299.0
+ORD-2025-1398,2025-03-14,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1398,2025-03-14,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,1,899.0,899.0
+ORD-2025-1399,2025-07-09,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,1,1199.0,1199.0
+ORD-2025-1399,2025-07-09,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,East,1,399.0,399.0
+ORD-2025-1399,2025-07-09,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,1,7499.0,7499.0
+ORD-2025-1400,2025-11-27,PROD-EL-03,Portable Bluetooth Speaker,Electronics,East,3,2199.0,6597.0
+ORD-2025-1401,2025-11-09,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1401,2025-11-09,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,2,699.0,1398.0
+ORD-2025-1401,2025-11-09,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,1,7499.0,7499.0
+ORD-2025-1402,2025-11-25,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,2,699.0,1398.0
+ORD-2025-1402,2025-11-25,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,1,899.0,899.0
+ORD-2025-1403,2025-08-20,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,1,499.0,499.0
+ORD-2025-1403,2025-08-20,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,Central,1,649.0,649.0
+ORD-2025-1403,2025-08-20,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,Central,1,1199.0,1199.0
+ORD-2025-1404,2025-10-01,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,1,1699.0,1699.0
+ORD-2025-1405,2025-11-28,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,2,1199.0,2398.0
+ORD-2025-1406,2025-08-06,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,2,1699.0,
+ORD-2025-1407,07/11/2025,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,East,1,2899.0,2899.0
+ORD-2025-1407,2025-11-07,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,1,1899.0,1899.0
+ORD-2025-1408,2025-01-09,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,6,1199.0,7194.0
+ORD-2025-1408,2025-01-09,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1409,2025-06-29,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,2,849.0,1698.0
+ORD-2025-1410,2025-10-23,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,East,1,1299.0,1299.0
+ORD-2025-1411,2025-10-09,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,East,2,2799.0,5598.0
+ORD-2025-1412,2025-01-01,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,West,5,1999.0,9995.0
+ORD-2025-1413,2025-06-07,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,1,2199.0,2199.0
+ORD-2025-1414,2025-11-08,PROD-OS-05,Architect LED Desk Lamp,office supplies,Central,1,1499.0,1499.0
+ORD-2025-1415,14/10/2025,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,1,1699.0,1699.0
+ORD-2025-1416,2025-06-18,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,2,749.0,1498.0
+ORD-2025-1417,2025-06-08,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,2,8999.0,17998.0
+ORD-2025-1418,2025-07-16,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,2,399.0,798.0
+ORD-2025-1419,2025-08-23,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,2,1699.0,3398.0
+ORD-2025-1419,2025-08-23,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,3,699.0,2097.0
+ORD-2025-1420,2025-04-26,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,West,1,1299.0,1299.0
+ORD-2025-1421,2025-01-03,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,South,2,4899.0,9798.0
+ORD-2025-1421,2025-01-03,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,2,7499.0,14998.0
+ORD-2025-1422,2025-08-13,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,1,8999.0,8999.0
+ORD-2025-1423,2025-07-08,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,2,4899.0,9798.0
+ORD-2025-1424,2025-10-22,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,Central,2,899.0,1798.0
+ORD-2025-1424,2025-10-22,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,CENTRAL,1,2899.0,2899.0
+ORD-2025-1424,2025-10-22,PROD-FA-02,Slim Fit Denim Jeans,Fashion,Central,2,1699.0,3398.0
+ORD-2025-1425,2025-10-18,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,3,1999.0,5997.0
+ORD-2025-1426,2025-06-12,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1427,2025-06-24,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,1,2799.0,2799.0
+ORD-2025-1428,2025-11-11,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,
+ORD-2025-1429,2025-12-23,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,3,699.0,2097.0
+ORD-2025-1430,2025-11-09,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1430,2025-11-09,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1431,2025-03-08,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,1,1799.0,1799.0
+ORD-2025-1431,2025-03-08,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,1499.0
+ORD-2025-1432,2025-10-07,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,2,1199.0,2398.0
+ORD-2025-1433,2025-03-04,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,5,1499.0,7495.0
+ORD-2025-1433,2025-03-04,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,1,2799.0,2799.0
+ORD-2025-1434,2025-01-31,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1435,2025-11-23,PROD-EL-06,Smart Fitness Watch,ELECTRONICS,North,2,3999.0,7998.0
+ORD-2025-1436,2025-07-07,PROD-EL-07,Full HD 1080p Webcam,Electronics,West,1,2499.0,2499.0
+ORD-2025-1437,2025-01-24,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,1,1699.0,1699.0
+ORD-2025-1437,2025-01-24,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1437,2025-01-24,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,1499.0
+ORD-2025-1438,2025-05-19,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,2,749.0,1498.0
+ORD-2025-1439,2025-12-17,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies, East ,1,849.0,849.0
+ORD-2025-1439,2025-12-17,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,1,4899.0,4899.0
+ORD-2025-1439,2025-12-17,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,,1,1799.0,1799.0
+ORD-2025-1440,2025-10-27,PROD-EL-07,Full HD 1080p Webcam,Electronics,Central,2,2499.0,4998.0
+ORD-2025-1441,2025-04-10,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,5,7499.0,37495.0
+ORD-2025-1442,12/09/2025,PROD-EL-06,Smart Fitness Watch,Electronics,South,1,3999.0,3999.0
+ORD-2025-1443,2025-04-10,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,2,1299.0,2598.0
+ORD-2025-1443,2025/04/10,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1444,2025-02-18,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1444,2025-02-18,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,West,2,799.0,1598.0
+ORD-2025-1445,2025-08-02,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-2025-1446,2025-03-18,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,Central,2,4899.0,9798.0
+ORD-2025-1446,2025-03-18,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,Central,1,8999.0,8999.0
+ORD-2025-1447,2025-06-05,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,1,399.0,
+ORD-2025-1448,2025-08-28,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,1,749.0,749.0
+ORD-2025-1449,2025-10-16,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,1,1799.0,1799.0
+ORD-2025-1450,2025-05-28,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,West,1,1299.0,1299.0
+ORD-2025-1451,2025-11-19,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,West,1,4899.0,4899.0
+ORD-2025-1451,2025-11-19,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,1,1699.0,1699.0
+ORD-2025-1451,2025-11-19,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,6,699.0,4194.0
+ORD-2025-1452,2025-10-11,PROD-EL-06,Smart Fitness Watch,Electronics,North,1,3999.0,3999.0
+ORD-2025-1453,2025-11-02,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,1,799.0,799.0
+ORD-2025-1454,2025-09-28,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,2,1699.0,3398.0
+ORD-2025-1455,2025-12-04,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,2299.0
+ORD-2025-1456,2025-10-03,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,East,2,649.0,1298.0
+ORD-2025-1456,2025-10-03,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,1,1699.0,1699.0
+ORD-2025-1457,2025-11-03,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,2,899.0,1798.0
+ORD-2025-1458,2025-10-21,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,south,4,499.0,1996.0
+ORD-2025-1458,2025-10-21,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1459,2025-12-05,PROD-EL-05,Noise Cancelling Headphones,Electronics,North,1,5999.0,5399.1
+ORD-2025-1460,2025-11-26,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,East,1,899.0,899.0
+ORD-2025-1461,2025-09-10,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,3,2199.0,6597.0
+ORD-2025-1461,2025-09-10,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,1,7499.0,7499.0
+ORD-2025-1461,2025-09-10,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,5,1799.0,8995.0
+ORD-2025-1462,2025-06-18,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,Central,2,749.0,1498.0
+ORD-2025-1462,2025-06-18,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,Central,1,2299.0,2299.0
+ORD-2025-1463,2025-11-20,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,1,849.0,849.0
+ORD-2025-1464,2025-08-26,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,3,849.0,2547.0
+ORD-2025-1464,2025-08-26,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,1,7499.0,7499.0
+ORD-2025-1465,2025-10-25,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,3,1999.0,5997.0
+ORD-2025-1465,2025-10-25,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,1,649.0,649.0
+ORD-2025-1466,2025/10/15,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,3,699.0,
+ORD-2025-1467,2025-07-10,PROD-BP-04,All-Natural Tea Tree Face Wash,beauty & personal care ,South,3,399.0,1197.0
+ORD-2025-1468,2025-05-19,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,3,2299.0,6897.0
+ORD-2025-1468,2025-05-19,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1469,2025-04-19,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1470,2025-10-02,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,1,849.0,849.0
+ORD-2025-1470,2025-10-02,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,3,1499.0,4497.0
+ORD-2025-1471,2025-07-04,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,Central,1,749.0,749.0
+ORD-2025-1471,2025-07-04,PROD-EL-07,Full HD 1080p Webcam,Electronics,Central,2,2499.0,4998.0
+ORD-2025-1472,2025-05-21,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,1,2499.0,2499.0
+ORD-2025-1473,2025-11-09,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1473,2025-11-09,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,2,2199.0,4398.0
+ORD-2025-1474,2025-10-06,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,1,7499.0,
+ORD-2025-1475,2025-01-06,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,4,2799.0,11196.0
+ORD-2025-1475,2025-01-06,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,3,2199.0,6597.0
+ORD-2025-1476,2025-10-06,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,West,1,1299.0,1299.0
+ORD-2025-1476,2025-10-06,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,4,2299.0,
+ORD-2025-1477,2025-09-15,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,East,1,8999.0,8999.0
+ORD-2025-1478,2025-07-20,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,1,1699.0,1699.0
+ORD-2025-1479,2025-12-10,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-2025-1480,2025-10-08,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,Central,3,4899.0,14697.0
+ORD-2025-1481,2025-05-23,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,Central,3,4899.0,14697.0
+ORD-2025-1481,2025-05-23,PROD-OS-04,Ergonomic High-Back Mesh Chair,  Office Supplies  ,Central,1,8999.0,8999.0
+ORD-2025-1482,2025-12-28,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,3,699.0,2097.0
+ORD-2025-1483,2025-05-03,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,West,2,499.0,998.0
+ORD-2025-1484,2025-08-08,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1485,2025-07-26,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,1899.0,1899.0
+ORD-2025-1486,2025-05-21,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,4,899.0,3596.0
+ORD-2025-1487,2025-11-22,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,3,1899.0,5697.0
+ORD-2025-1488,2025-03-30,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,2,2499.0,4998.0
+ORD-2025-1489,2025-01-14,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,3,1799.0,5397.0
+ORD-2025-1489,2025-01-14,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,East,1,2799.0,2799.0
+ORD-2025-1489,2025-01-14,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,1,7499.0,7499.0
+ORD-2025-1489,2025-01-14,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,3,399.0,1197.0
+ORD-2025-1490,2025-09-05,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,4,799.0,3196.0
+ORD-2025-1491,2025-09-27,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,2,5999.0,11998.0
+ORD-2025-1491,2025-09-27,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,1,2199.0,2199.0
+ORD-2025-1491,2025-09-27,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-2025-1492,2025-05-06,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,beauty & personal care ,South,2,1899.0,3798.0
+ORD-2025-1492,2025-05-06,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,South,3,4899.0,14697.0
+ORD-2025-1493,2025-07-20,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,2,1499.0,2998.0
+ORD-2025-1493,2025-07-20,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,2,2299.0,4598.0
+ORD-2025-1494,2025-04-19,PROD-HK-02,Digital Air Fryer 4.5L,home & kitchen ,South,1,4899.0,4899.0
+ORD-2025-1495,2025-07-15,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,2,1799.0,3598.0
+ORD-2025-1495,2025-07-15,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,2,699.0,1398.0
+ORD-2025-1495,2025-07-15,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,East,1,8999.0,8999.0
+ORD-2025-1496,2025-09-10,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1497,2025-07-13,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1498,2025-12-17,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,south,1,2799.0,2799.0
+ORD-2025-1499,2025-09-16,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,south,1,699.0,699.0
+ORD-2025-1500,2025-01-03,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1501,2025-02-02,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,2,1299.0,2598.0
+ORD-2025-1501,2025-02-02,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1502,2025-05-24,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,Central,1,1199.0,1199.0
+ORD-2025-1503,20/09/2025,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1504,2025-11-01,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,6,2199.0,13194.0
+ORD-2025-1504,2025-11-01,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,1,7499.0,7499.0
+ORD-2025-1505,2025-05-31,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,1,499.0,499.0
+ORD-2025-1506,2025-11-27,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1506,2025-11-27,PROD-FA-05,Genuine Leather Reversible Belt,fashion,West,3,899.0,2697.0
+ORD-2025-1507,2025-12-19,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,West,2,1299.0,2598.0
+ORD-2025-1508,2025-01-25,PROD-OS-03,A5 Hardcover Dotted Journal,  Office Supplies  ,North,2,499.0,998.0
+ORD-2025-1509,2025-10-27,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1510,19/06/2025,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,2,3499.0,6998.0
+ORD-2025-1511,2025-02-25,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,4,749.0,
+ORD-2025-1512,2025-09-06,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,2,1699.0,3398.0
+ORD-2025-1513,17/01/2025,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,2,399.0,798.0
+ORD-2025-1513,2025-01-17,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,3,699.0,2097.0
+ORD-2025-1513,2025-01-17,PROD-HK-01,Stainless Steel Insulated Bottle,home & kitchen ,East,2,799.0,1598.0
+ORD-2025-1514,2025-03-06,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,Central,1,899.0,899.0
+ORD-2025-1515,2025-03-14,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1516,2025-07-27,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,1,1699.0,1699.0
+ORD-2025-1517,2025-08-03,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,2,1699.0,3398.0
+ORD-2025-1517,2025-08-03,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,3,2899.0,8697.0
+ORD-2025-1518,2025-10-14,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,1,1199.0,1199.0
+ORD-2025-1518,2025-10-14,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,1,499.0,499.0
+ORD-2025-1519,2025-10-04,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,3,399.0,1197.0
+ORD-2025-1519,2025-10-04,PROD-EL-06,Smart Fitness Watch,Electronics,South,3,3999.0,11997.0
+ORD-2025-1520,2025-11-11,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,2,2299.0,4598.0
+ORD-2025-1521,2025-06-23,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,2,1699.0,3398.0
+ORD-2025-1521,2025-06-23,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,1,4899.0,4899.0
+ORD-2025-1522,2025-03-22,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,3,-100.0,1947.0
+ORD-2025-1523,2025-05-27,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,2,749.0,1498.0
+ORD-2025-1524,2025-09-18,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1525,2025-05-15,PROD-EL-03,Portable Bluetooth Speaker,Electronics,East,1,2199.0,2199.0
+ORD-2025-1525,2025-05-15,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,1,1199.0,1199.0
+ORD-2025-1526,2025-12-09,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,1,1199.0,1199.0
+ORD-2025-1526,2025-12-09,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,South,1,1799.0,1799.0
+ORD-2025-1527,2025-01-25,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,1,649.0,649.0
+ORD-2025-1527,2025-01-25,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1527,2025-01-25,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,1,1999.0,1999.0
+ORD-2025-1528,2025-06-27,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,2,1299.0,2598.0
+ORD-2025-1529,2025-07-22,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1529,2025-07-22,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,5,2799.0,13995.0
+ORD-2025-1529,2025-07-22,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,1,699.0,699.0
+ORD-2025-1530,2025-11-14,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,6,3499.0,20994.0
+ORD-2025-1530,2025-11-14,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,1,2499.0,2499.0
+ORD-2025-1531,2025-12-17,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,1,2899.0,2899.0
+ORD-2025-1532,2025-08-20,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,1,749.0,749.0
+ORD-2025-1533,2025-10-16,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,1,399.0,399.0
+ORD-2025-1534,2025/04/15,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,1,749.0,
+ORD-2025-1535,2025-05-02,PROD-EL-07,Full HD 1080p Webcam,Electronics,Central,1,2499.0,2499.0
+ORD-2025-1536,2025-08-09,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,2,2799.0,5598.0
+ORD-2025-1537,2025-07-05,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,South,3,4899.0,14697.0
+ORD-2025-1537,2025-07-05,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,2,699.0,1398.0
+ORD-2025-1537,2025-07-05,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,2,1299.0,2598.0
+ORD-2025-1537,2025-07-05,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,2,8999.0,17998.0
+ORD-2025-1538,2025-04-16,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,South,1,1799.0,1799.0
+ORD-2025-1539,2025-08-01,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,north,4,399.0,1596.0
+ORD-2025-1539,2025-08-01,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,2,849.0,1698.0
+ORD-2025-1539,2025-08-01,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,1899.0,1899.0
+ORD-2025-1540,2025-11-08,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1540,2025-11-08,PROD-EL-06,Smart Fitness Watch,Electronics,North,2,3999.0,7998.0
+ORD-2025-1541,2025-05-10,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,1,2799.0,2799.0
+ORD-2025-1541,2025/05/10,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,West,1,1299.0,1299.0
+ORD-2025-1541,2025-05-10,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,6,2299.0,13794.0
+ORD-2025-1542,2025-07-03,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,1,7499.0,7499.0
+ORD-2025-1543,2025-05-27,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,1,1799.0,1799.0
+ORD-2025-1543,2025-05-27,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,1,699.0,699.0
+ORD-2025-1544,2025/07/31,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,6,1799.0,10794.0
+ORD-2025-1544,2025-07-31,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,1,399.0,399.0
+ORD-2025-1544,2025-07-31,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,3,2299.0,6897.0
+ORD-2025-1545,2025-10-05,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,1,1699.0,1699.0
+ORD-2025-1545,2025-10-05,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,East,1,8999.0,8999.0
+ORD-2025-1545,2025-10-05,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,3,4899.0,13227.3
+ORD-2025-1546,2025-07-17,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,1,8999.0,8999.0
+ORD-2025-1546,2025-07-17,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,West,3,799.0,2397.0
+ORD-2025-1546,2025-07-17,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,1,2299.0,2299.0
+ORD-2025-1547,2025-08-27,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,1,1699.0,1699.0
+ORD-2025-1547,2025-08-27,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,1,7499.0,7499.0
+ORD-2025-1547,2025-08-27,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,2,699.0,1398.0
+ORD-2025-1548,2025-10-18,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,1,5999.0,5999.0
+ORD-2025-1549,2025-06-13,PROD-EL-07,Full HD 1080p Webcam,Electronics,West,1,2499.0,2499.0
+ORD-2025-1550,2025-12-30,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,2,849.0,1698.0
+ORD-2025-1550,2025-12-30,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,north,3,1999.0,5997.0
+ORD-2025-1550,2025-12-30,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,1499.0
+ORD-2025-1550,2025-12-30,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,1,1299.0,1299.0
+ORD-2025-1551,2025-10-05,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1551,2025-10-05,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,2,2199.0,4398.0
+ORD-2025-1552,2025-10-09,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,3,749.0,2247.0
+ORD-2025-1552,2025-10-09,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,1899.0,
+ORD-2025-1553,2025-02-28,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1554,2025-06-11,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,1899.0,1899.0
+ORD-2025-1555,2025-10-17,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,Central,5,799.0,3995.0
+ORD-2025-1556,2025-08-27,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,South,1,1299.0,1299.0
+ORD-2025-1557,2025-10-10,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,1,1499.0,1499.0
+ORD-2025-1558,2025-06-10,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,South,1,2299.0,2299.0
+ORD-2025-1559,2025-10-19,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,Central,4,899.0,3596.0
+ORD-2025-1560,2025-05-22,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,2,1699.0,3398.0
+ORD-2025-1561,2025-12-28,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,2,5999.0,11998.0
+ORD-2025-1562,2025-03-15,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,1,2799.0,2799.0
+ORD-2025-1563,2025-08-16,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,East,2,2899.0,5798.0
+ORD-2025-1564,2025-04-11,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,3,2799.0,8397.0
+ORD-2025-1564,2025-04-11,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,2,749.0,1498.0
+ORD-2025-1565,2025-08-18,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,NORTH,1,649.0,649.0
+ORD-2025-1565,2025-08-18,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,1,699.0,699.0
+ORD-2025-1566,30/05/2025,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1566,2025-05-30,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,2,399.0,798.0
+ORD-2025-1567,2025-05-07,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,north,1,8999.0,8999.0
+ORD-2025-1568,2025/05/08,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,3,899.0,2697.0
+ORD-2025-1569,2025-01-13,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,1,7499.0,
+ORD-2025-1569,2025-01-13,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,1,399.0,399.0
+ORD-2025-1570,2025-06-25,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1570,2025-06-25,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,2,3499.0,6998.0
+ORD-2025-1571,2025-11-11,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1571,2025-11-11,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,5,1699.0,8495.0
+ORD-2025-1571,2025-11-11,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,1,8999.0,8999.0
+ORD-2025-1572,2025-10-30,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,1899.0,3798.0
+ORD-2025-1573,2025-10-13,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,2,649.0,1298.0
+ORD-2025-1574,2025-09-22,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,5,1899.0,9495.0
+ORD-2025-1574,2025-09-22,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,Central,2,2299.0,4598.0
+ORD-2025-1575,2025-05-21,PROD-EL-05,Noise Cancelling Headphones,Electronics,NORTH,2,5999.0,11998.0
+ORD-2025-1575,2025-05-21,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,1,1699.0,1699.0
+ORD-2025-1576,2025-06-02,PROD-EL-05,Noise Cancelling Headphones,Electronics,Central,1,5999.0,5999.0
+ORD-2025-1577,2025-07-17,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,1,899.0,899.0
+ORD-2025-1578,2025-01-11,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,3,399.0,1197.0
+ORD-2025-1579,2025-11-04,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,1,399.0,399.0
+ORD-2025-1579,2025-11-04,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,3,699.0,2097.0
+ORD-2025-1580,2025-04-04,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,1,1999.0,1999.0
+ORD-2025-1580,2025-04-04,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,1,699.0,
+ORD-2025-1581,2025-09-01,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,2,1499.0,2998.0
+ORD-2025-1582,2025-06-05,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,3,2299.0,6897.0
+ORD-2025-1583,2025-05-28,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1584,2025-08-05,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,
+ORD-2025-1584,2025-08-05,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,1,1699.0,1699.0
+ORD-2025-1585,2025-05-26,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1586,2025-07-11,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,2,849.0,1698.0
+ORD-2025-1587,2025-01-23,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,1,649.0,649.0
+ORD-2025-1587,23/01/2025,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,2,399.0,798.0
+ORD-2025-1587,2025-01-23,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,1,2199.0,2199.0
+ORD-2025-1588,2025-10-28,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,5,1199.0,5995.0
+ORD-2025-1589,2025-03-28,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,3,499.0,1497.0
+ORD-2025-1589,2025-03-28,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,1,399.0,399.0
+ORD-2025-1590,2025-04-18,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,2,649.0,1298.0
+ORD-2025-1591,2025-08-31,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,1,1199.0,1199.0
+ORD-2025-1592,2025-05-21,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,East,3,8999.0,26997.0
+ORD-2025-1592,2025-05-21,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,East,1,1299.0,1299.0
+ORD-2025-1592,2025-05-21,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,3,749.0,2247.0
+ORD-2025-1592,2025-05-21,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,2,1699.0,3398.0
+ORD-2025-1593,2025-10-28,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,1,2799.0,2799.0
+ORD-2025-1594,2025-02-02,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1595,2025-10-03,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,5,7499.0,37495.0
+ORD-2025-1596,2025-12-21,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,West,1,499.0,499.0
+ORD-2025-1596,21/12/2025,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,West,5,4899.0,24495.0
+ORD-2025-1596,2025-12-21,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,1,7499.0,7499.0
+ORD-2025-1596,2025-12-21,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,1,1499.0,1499.0
+ORD-2025-1597,2025-04-03,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,2,2299.0,4598.0
+ORD-2025-1598,2025-10-04,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,3,749.0,2247.0
+ORD-2025-1599,2025-09-21,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,1,8999.0,8999.0
+ORD-2025-1599,2025-09-21,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1600,2025-11-04,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,3,699.0,2097.0
+ORD-2025-1601,2025-10-06,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1602,2025-09-10,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,5,1299.0,6495.0
+ORD-2025-1603,2025-08-01,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,2,3499.0,6998.0
+ORD-2025-1604,2025-02-11,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,1899.0,1899.0
+ORD-2025-1604,2025-02-11,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-2025-1605,2025-07-10,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,2899.0
+ORD-2025-1606,2025-04-12,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,6,2299.0,13794.0
+ORD-2025-1606,2025-04-12,PROD-EL-05,Noise Cancelling Headphones,Electronics,North,2,5999.0,11998.0
+ORD-2025-1607,2025-11-08,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,1,1999.0,1999.0
+ORD-2025-1607,2025-11-08,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,5,2299.0,11495.0
+ORD-2025-1607,2025-11-08,PROD-FA-05,Genuine Leather Reversible Belt,fashion ,North,6,899.0,5394.0
+ORD-2025-1608,2025-10-22,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,1,1899.0,1899.0
+ORD-2025-1609,2025-07-06,PROD-EL-06,Smart Fitness Watch,ELECTRONICS,East,2,3999.0,7998.0
+ORD-2025-1610,2025-12-06,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,4,2199.0,8796.0
+ORD-2025-1610,2025-12-06,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,4,849.0,3396.0
+ORD-2025-1611,2025-12-28,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,2,649.0,1298.0
+ORD-2025-1611,2025-12-28,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,1,849.0,849.0
+ORD-2025-1611,2025-12-28,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,1,499.0,499.0
+ORD-2025-1611,2025-12-28,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,2,0.0,14998.0
+ORD-2025-1612,2025-04-16,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,East,1,899.0,
+ORD-2025-1612,2025-04-16,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,2,5999.0,11998.0
+ORD-2025-1613,2025-10-08,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,1,699.0,699.0
+ORD-2025-1614,2025-06-21,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,Central,2,799.0,1598.0
+ORD-2025-1615,2025-04-15,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,2,799.0,1598.0
+ORD-2025-1615,15/04/2025,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,1,499.0,499.0
+ORD-2025-1616,2025-07-01,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,2,1299.0,2598.0
+ORD-2025-1617,2025-02-26,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,4,699.0,2796.0
+ORD-2025-1618,2025-12-29,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,
+ORD-2025-1618,2025-12-29,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1619,2025-10-18,PROD-EL-06,Smart Fitness Watch,Electronics,Central,2,3999.0,7998.0
+ORD-2025-1619,2025-10-18,PROD-EL-03,Portable Bluetooth Speaker,Electronics,Central,1,2199.0,2199.0
+ORD-2025-1619,2025-10-18,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,Central,2,699.0,1398.0
+ORD-2025-1620,2025-04-12,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,East,2,899.0,1798.0
+ORD-2025-1621,2025-04-10,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1621,2025-04-10,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1621,2025-04-10,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,1,8999.0,8999.0
+ORD-2025-1622,2025-01-09,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,3,699.0,2097.0
+ORD-2025-1623,2025-05-28,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,Central,1,4899.0,4899.0
+ORD-2025-1624,2025-08-07,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,1,649.0,649.0
+ORD-2025-1624,2025-08-07,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1625,2025-11-16,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,Central,1,1799.0,1799.0
+ORD-2025-1625,2025-11-16,PROD-EL-08,1TB High-Speed External SSD,electronics,Central,2,7499.0,14998.0
+ORD-2025-1625,2025-11-16,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,Central,1,649.0,649.0
+ORD-2025-1626,2025/07/19,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,2899.0
+ORD-2025-1627,2025-05-19,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,West,1,4899.0,4899.0
+ORD-2025-1628,2025-02-23,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,Central,1,4899.0,4899.0
+ORD-2025-1629,2025-11-01,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,West,2,2299.0,4598.0
+ORD-2025-1630,22/10/2025,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,East,3,649.0,1947.0
+ORD-2025-1631,2025-08-09,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,South,1,1299.0,1299.0
+ORD-2025-1632,2025-03-19,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1633,2025-08-22,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,1,749.0,
+ORD-2025-1633,2025-08-22,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,1499.0
+ORD-2025-1633,2025-08-22,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-2025-1633,2025-08-22,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1634,2025-01-24,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,1,1699.0,1699.0
+ORD-2025-1634,2025-01-24,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,West,2,2299.0,4598.0
+ORD-2025-1634,2025-01-24,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,2,1299.0,2598.0
+ORD-2025-1635,2025-11-29,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,South,1,4899.0,4899.0
+ORD-2025-1636,2025-10-25,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1637,2025/11/08,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,2,849.0,1698.0
+ORD-2025-1637,2025/11/08,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1637,08/11/2025,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,West,2,2899.0,5798.0
+ORD-2025-1637,2025-11-08,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,2,7499.0,14998.0
+ORD-2025-1638,2025-02-21,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,1,2499.0,2499.0
+ORD-2025-1638,2025-02-21,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,2,849.0,1698.0
+ORD-2025-1639,2025-08-09,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,CENTRAL,1,499.0,499.0
+ORD-2025-1640,2025-09-25,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,2,1499.0,2998.0
+ORD-2025-1640,2025-09-25,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1641,2025-08-22,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,4,499.0,1996.0
+ORD-2025-1642,2025-11-27,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,1,5999.0,5999.0
+ORD-2025-1642,2025-11-27,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,4,399.0,1596.0
+ORD-2025-1643,2025-10-04,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1643,2025-10-04,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,3,399.0,1197.0
+ORD-2025-1643,2025-10-04,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-2025-1644,2025-05-10,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,3,1899.0,5697.0
+ORD-2025-1644,2025-05-10,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,2,699.0,1398.0
+ORD-2025-1644,2025-05-10,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,2,3499.0,6998.0
+ORD-2025-1644,2025-05-10,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,2,899.0,1798.0
+ORD-2025-1645,2025-12-12,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1646,2025-10-05,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,1,2199.0,2199.0
+ORD-2025-1647,2025-11-30,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,5,4899.0,24495.0
+ORD-2025-1647,2025-11-30,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1648,2025-04-24,PROD-HK-06,500W High Speed Smoothie Blender,  Home & Kitchen  ,West,1,2299.0,2299.0
+ORD-2025-1648,2025-04-24,PROD-EL-06,Smart Fitness Watch,Electronics,West,5,3999.0,19995.0
+ORD-2025-1649,2025-01-07,PROD-EL-05,Noise Cancelling Headphones,  Electronics  ,South,3,5999.0,17997.0
+ORD-2025-1649,2025-01-07,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,1899.0,1899.0
+ORD-2025-1650,2025-10-18,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,East,1,1299.0,1299.0
+ORD-2025-1651,2025-11-12,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,1,1999.0,1999.0
+ORD-2025-1652,2025-11-17,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,East,1,799.0,799.0
+ORD-2025-1652,2025-11-17,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,2,2299.0,4598.0
+ORD-2025-1653,2025-08-06,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,West,1,799.0,799.0
+ORD-2025-1653,2025-08-06,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,West,2,2299.0,4598.0
+ORD-2025-1653,2025-08-06,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,1,1699.0,1699.0
+ORD-2025-1654,2025-08-31,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,1899.0,1899.0
+ORD-2025-1655,2025-09-10,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1655,2025-09-10,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1656,2025-10-11,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,1899.0,3798.0
+ORD-2025-1657,2025-05-04,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,4,699.0,2796.0
+ORD-2025-1658,2025-09-03,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,1,5999.0,5999.0
+ORD-2025-1658,2025-09-03,PROD-BP-01,Hydrating Vitamin C Face Serum,BEAUTY & PERSONAL CARE,East,1,749.0,749.0
+ORD-2025-1659,2025-10-31,PROD-EL-08,1TB High-Speed External SSD,Electronics,,1,7499.0,7499.0
+ORD-2025-1660,2025-07-28,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,1,499.0,499.0
+ORD-2025-1661,2025-03-24,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,1,499.0,499.0
+ORD-2025-1662,2025-10-13,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1663,2025-06-26,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,1,2799.0,2799.0
+ORD-2025-1664,2025-04-12,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,5,2199.0,10995.0
+ORD-2025-1664,2025-04-12,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,2,1899.0,3798.0
+ORD-2025-1665,2025-02-13,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1665,2025-02-13,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1665,2025-02-13,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,2,2799.0,5598.0
+ORD-2025-1666,2025-09-04,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,1,699.0,699.0
+ORD-2025-1667,2025-12-12,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,2,499.0,998.0
+ORD-2025-1667,2025-12-12,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,2,1499.0,2998.0
+ORD-2025-1668,2025-05-22,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,3,799.0,2397.0
+ORD-2025-1669,2025-12-19,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,4,649.0,2596.0
+ORD-2025-1670,2025-10-27,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,2,399.0,798.0
+ORD-2025-1671,2025-10-31,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,East,1,2899.0,2899.0
+ORD-2025-1672,2025-08-04,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,5,499.0,2495.0
+ORD-2025-1673,2025-06-08,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,2,1699.0,3398.0
+ORD-2025-1674,2025-12-01,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1675,2025-02-18,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,1,1199.0,1199.0
+ORD-2025-1675,2025-02-18,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,1,849.0,849.0
+ORD-2025-1675,2025-02-18,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,1,7499.0,7499.0
+ORD-2025-1676,2025-10-21,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,2,2199.0,4398.0
+ORD-2025-1677,2025-09-21,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,2299.0
+ORD-2025-1677,2025-09-21,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,1,699.0,699.0
+ORD-2025-1678,2025-11-30,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,1,8999.0,8999.0
+ORD-2025-1679,2025-04-10,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1680,2025-07-14,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,West,2,1799.0,3598.0
+ORD-2025-1680,2025-07-14,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1681,2025-12-02,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,3,3499.0,10497.0
+ORD-2025-1681,2025-12-02,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,West,4,4899.0,19596.0
+ORD-2025-1682,2025-08-16,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,2,1799.0,3598.0
+ORD-2025-1682,2025-08-16,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,2,7499.0,14998.0
+ORD-2025-1683,2025-08-29,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,4,2799.0,11196.0
+ORD-2025-1684,2025-08-05,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,South,1,649.0,649.0
+ORD-2025-1685,2025-11-15,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,East,1,2899.0,2899.0
+ORD-2025-1685,2025-11-15,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,East,2,499.0,998.0
+ORD-2025-1686,2025-04-24,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,1,8999.0,
+ORD-2025-1687,2025-09-18,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,Central,3,2299.0,6897.0
+ORD-2025-1688,2025-05-19,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,1,1499.0,1499.0
+ORD-2025-1689,2025-08-24,PROD-EL-05,Noise Cancelling Headphones,Electronics,North,4,5999.0,23996.0
+ORD-2025-1690,2025-02-14,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,2,399.0,798.0
+ORD-2025-1691,04/04/2025,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,2299.0
+ORD-2025-1692,2025-03-16,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,3,849.0,2547.0
+ORD-2025-1692,2025-03-16,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,2,2299.0,4598.0
+ORD-2025-1692,2025-03-16,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,East,1,799.0,799.0
+ORD-2025-1693,2025-05-02,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,1,8999.0,8999.0
+ORD-2025-1694,2025-08-12,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,3,2499.0,7497.0
+ORD-2025-1695,2025-10-15,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,5,699.0,3495.0
+ORD-2025-1695,2025-10-15,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,1,7499.0,7499.0
+ORD-2025-1695,2025-10-15,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,
+ORD-2025-1696,2025-08-12,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,Central,1,1799.0,1799.0
+ORD-2025-1696,2025-08-12,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,1,499.0,499.0
+ORD-2025-1696,2025-08-12,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,Central,2,2899.0,5798.0
+ORD-2025-1697,2025-08-18,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,2,1299.0,2598.0
+ORD-2025-1697,2025-08-18,PROD-OS-02,Premium Gel Pen Set (Pack of 12),office supplies,North,3,399.0,1197.0
+ORD-2025-1698,2025-11-12,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,2,3499.0,6998.0
+ORD-2025-1699,2025-03-13,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,East,2,799.0,1598.0
+ORD-2025-1700,2025-04-07,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,1,1799.0,1799.0
+ORD-2025-1701,2025-10-31,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1702,2025-02-27,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,3,699.0,2097.0
+ORD-2025-1703,2025-04-03,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,1,499.0,499.0
+ORD-2025-1704,2025-08-07,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,1,399.0,399.0
+ORD-2025-1705,2025/06/21,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,5,849.0,4245.0
+ORD-2025-1706,2025-09-01,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-2025-1707,2025-08-26,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,1,1199.0,1199.0
+ORD-2025-1707,2025-08-26,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,1,7499.0,7499.0
+ORD-2025-1708,2025-06-05,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1708,2025-06-05,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,1,899.0,899.0
+ORD-2025-1709,2025-09-07,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,2199.0
+ORD-2025-1710,2025-10-27,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,3,749.0,2247.0
+ORD-2025-1711,2025-04-18,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1712,2025-10-19,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,2,2499.0,4998.0
+ORD-2025-1713,2025-09-27,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,East,1,399.0,399.0
+ORD-2025-1714,2025-10-08,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,3,1199.0,3597.0
+ORD-2025-1714,2025-10-08,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,3,749.0,2247.0
+ORD-2025-1715,2025-07-05,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,1899.0,1899.0
+ORD-2025-1715,2025-07-05,PROD-BP-05,Complete Beard Grooming Kit,BEAUTY & PERSONAL CARE,South,1,1299.0,1169.1
+ORD-2025-1716,2025-11-20,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,West,1,1299.0,1299.0
+ORD-2025-1717,2025-06-09,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1717,2025-06-09,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1717,2025-06-09,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,West,3,2799.0,8397.0
+ORD-2025-1718,2025/06/09,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,1,1899.0,1899.0
+ORD-2025-1718,2025-06-09,PROD-EL-06,Smart Fitness Watch,Electronics,East,2,3999.0,7998.0
+ORD-2025-1718,2025-06-09,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,1,1799.0,1799.0
+ORD-2025-1719,2025-06-22,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,6,399.0,2394.0
+ORD-2025-1720,2025/08/01,PROD-EL-05,Noise Cancelling Headphones,Electronics,South,1,5999.0,5999.0
+ORD-2025-1721,2025-06-01,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,2899.0
+ORD-2025-1722,2025-10-26,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,1,1899.0,1899.0
+ORD-2025-1722,26/10/2025,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,1,7499.0,7499.0
+ORD-2025-1723,2025-09-19,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,3,1199.0,3597.0
+ORD-2025-1724,2025-10-01,PROD-EL-06,Smart Fitness Watch,Electronics,East,2,3999.0,7998.0
+ORD-2025-1725,2025-08-09,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,3,3499.0,10497.0
+ORD-2025-1725,2025-08-09,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1726,2025-03-24,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,2,2299.0,4598.0
+ORD-2025-1726,2025-03-24,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,1,1999.0,1999.0
+ORD-2025-1727,2025-04-04,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,4,1499.0,5996.0
+ORD-2025-1727,2025-04-04,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,2,2199.0,4398.0
+ORD-2025-1728,16/09/2025,PROD-FA-01,Organic Cotton Crewneck T-Shirt,fashion ,East,2,699.0,1398.0
+ORD-2025-1728,2025-09-16,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,2,749.0,1498.0
+ORD-2025-1728,2025-09-16,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,East,1,2899.0,2899.0
+ORD-2025-1729,2025-07-17,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,1,899.0,899.0
+ORD-2025-1730,2025-05-04,PROD-FA-01,Organic Cotton Crewneck T-Shirt,FASHION,North,1,699.0,699.0
+ORD-2025-1731,2025-11-17,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,1,7499.0,
+ORD-2025-1732,2025/10/31,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,2,849.0,1698.0
+ORD-2025-1732,2025-10-31,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,2,3499.0,6998.0
+ORD-2025-1733,2025-05-24,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,4,1899.0,7596.0
+ORD-2025-1734,2025-09-30,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1735,2025-10-22,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,1,1999.0,1999.0
+ORD-2025-1736,2025-09-10,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,2,699.0,1398.0
+ORD-2025-1736,2025-09-10,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,1,399.0,399.0
+ORD-2025-1737,2025-02-01,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,1,3499.0,3499.0
+ORD-2025-1738,2025-01-16,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,3,399.0,1197.0
+ORD-2025-1739,2025-04-13,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,2,2299.0,4598.0
+ORD-2025-1740,2025-05-22,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,West,1,1799.0,1799.0
+ORD-2025-1740,2025-05-22,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,4,1699.0,
+ORD-2025-1740,2025-05-22,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,West,6,8999.0,53994.0
+ORD-2025-1741,30/11/2025,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,west,2,699.0,1398.0
+ORD-2025-1742,2025-02-03,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,1,1299.0,1299.0
+ORD-2025-1742,2025-02-03,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,2,2199.0,4398.0
+ORD-2025-1742,2025-02-03,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,3,1199.0,3597.0
+ORD-2025-1742,2025-02-03,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,3,849.0,2547.0
+ORD-2025-1743,2025-12-05,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,2199.0
+ORD-2025-1744,2025-03-05,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,2,799.0,1598.0
+ORD-2025-1745,2025-08-20,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1745,2025-08-20,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,1,899.0,899.0
+ORD-2025-1746,2025-10-18,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,East,1,8999.0,8999.0
+ORD-2025-1746,2025-10-18,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,3,1199.0,3597.0
+ORD-2025-1747,2025-09-13,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,3,849.0,2547.0
+ORD-2025-1747,2025-09-13,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,2,1999.0,3998.0
+ORD-2025-1748,2025-08-10,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,Central,1,699.0,699.0
+ORD-2025-1748,2025-08-10,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,Central,2,1999.0,3998.0
+ORD-2025-1749,2025-06-20,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,4,2299.0,9196.0
+ORD-2025-1750,2025-11-04,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,1899.0,1899.0
+ORD-2025-1751,2025-12-23,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,Central,3,1799.0,5397.0
+ORD-2025-1751,2025/12/23,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,Central,2,399.0,798.0
+ORD-2025-1752,2025-09-21,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,2,399.0,798.0
+ORD-2025-1753,2025-09-29,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1753,2025-09-29,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,1,2799.0,2799.0
+ORD-2025-1753,2025-09-29,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,2,1499.0,2998.0
+ORD-2025-1754,2025-10-28,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,1,2499.0,2499.0
+ORD-2025-1755,2025-09-14,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,2,699.0,1398.0
+ORD-2025-1756,2025-07-29,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,1,7499.0,7499.0
+ORD-2025-1756,2025-07-29,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1757,2025-10-11,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,3,2299.0,6897.0
+ORD-2025-1757,2025-10-11,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,3,699.0,2097.0
+ORD-2025-1758,2025-12-13,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1759,2025-03-24,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,4,1799.0,7196.0
+ORD-2025-1760,2025-08-11,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1761,2025/01/11,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,2,499.0,998.0
+ORD-2025-1762,2025-11-09,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,,1,2899.0,2899.0
+ORD-2025-1762,2025-11-09,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,3,5999.0,17997.0
+ORD-2025-1763,2025-11-22,PROD-FA-02,Slim Fit Denim Jeans,Fashion,North,1,1699.0,
+ORD-2025-1763,2025-11-22,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,3,2199.0,6597.0
+ORD-2025-1764,2025-12-03,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,2,2299.0,4598.0
+ORD-2025-1764,2025-12-03,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,5,2199.0,10995.0
+ORD-2025-1764,2025-12-03,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1765,2025-11-04,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,1499.0
+ORD-2025-1766,2025-12-24,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,West,4,2899.0,11596.0
+ORD-2025-1766,2025-12-24,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1767,2025-06-05,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,1,2799.0,2799.0
+ORD-2025-1768,2025-07-02,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,1,899.0,
+ORD-2025-1769,2025-03-31,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,Central,5,2799.0,13995.0
+ORD-2025-1769,2025-03-31,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,Central,1,1199.0,1199.0
+ORD-2025-1770,2025-05-22,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,West,1,1799.0,1799.0
+ORD-2025-1771,2025-04-14,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,2899.0
+ORD-2025-1772,2025-09-28,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,3,499.0,1497.0
+ORD-2025-1773,2025-03-31,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1773,2025-03-31,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1773,2025-03-31,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1774,2025-05-30,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,1,1499.0,1499.0
+ORD-2025-1774,2025-05-30,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,2,3499.0,6998.0
+ORD-2025-1775,2025-08-31,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1775,2025-08-31,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1776,10/02/2025,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,3,2899.0,8697.0
+ORD-2025-1777,2025-01-04,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,2,899.0,1798.0
+ORD-2025-1778,2025-08-17,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,3,2499.0,7497.0
+ORD-2025-1778,2025-08-17,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,1,5999.0,5999.0
+ORD-2025-1779,2025-08-22,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,3,1699.0,5097.0
+ORD-2025-1779,2025-08-22,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,1,7499.0,7499.0
+ORD-2025-1779,22/08/2025,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,1,399.0,399.0
+ORD-2025-1779,2025-08-22,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,West,1,1799.0,1799.0
+ORD-2025-1780,2025-10-12,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,3,399.0,1197.0
+ORD-2025-1781,2025-06-18,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,West,1,2899.0,2899.0
+ORD-2025-1782,2025-07-04,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,1,749.0,749.0
+ORD-2025-1783,2025-12-09,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,2,899.0,1798.0
+ORD-2025-1784,2025-07-08,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,1899.0,3798.0
+ORD-2025-1785,2025-06-14,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,East,2,399.0,718.2
+ORD-2025-1786,2025-03-18,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,1,749.0,749.0
+ORD-2025-1787,2025-11-27,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,5,849.0,4245.0
+ORD-2025-1787,2025-11-27,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,2,499.0,998.0
+ORD-2025-1787,2025-11-27,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1788,2025/06/18,PROD-EL-01,Wireless Ergonomic Mouse,  Electronics  ,West,1,1299.0,
+ORD-2025-1789,2025-08-20,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,West,1,499.0,499.0
+ORD-2025-1789,2025-08-20,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,West,2,2299.0,4598.0
+ORD-2025-1790,2025-04-23,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,1,799.0,799.0
+ORD-2025-1790,2025-04-23,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,north,1,1299.0,1299.0
+ORD-2025-1790,2025-04-23,PROD-EL-06,Smart Fitness Watch,Electronics,North,1,3999.0,3999.0
+ORD-2025-1791,2025-11-09,PROD-OS-04,Ergonomic High-Back Mesh Chair,office supplies,West,2,8999.0,17998.0
+ORD-2025-1791,2025-11-09,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,1,749.0,749.0
+ORD-2025-1792,2025-07-10,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,1,1199.0,1199.0
+ORD-2025-1793,2025-11-12,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1794,2025/04/06,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,Central,1,399.0,399.0
+ORD-2025-1795,2025-10-05,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,1,899.0,899.0
+ORD-2025-1796,2025-09-22,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,Central,1,649.0,649.0
+ORD-2025-1796,2025-09-22,PROD-EL-03,Portable Bluetooth Speaker,Electronics,Central,3,2199.0,6597.0
+ORD-2025-1797,2025-03-05,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,1499.0
+ORD-2025-1798,2025-08-21,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,East,1,1299.0,1299.0
+ORD-2025-1798,2025-08-21,PROD-EL-03,Portable Bluetooth Speaker,Electronics,East,1,2199.0,2199.0
+ORD-2025-1798,2025-08-21,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,1,1499.0,1499.0
+ORD-2025-1799,2025-01-17,PROD-EL-07,Full HD 1080p Webcam,Electronics,East,3,2499.0,7497.0
+ORD-2025-1800,2025-03-13,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1801,15/01/2025,PROD-HK-03,1.8L Stainless Electric Kettle,home & kitchen,WEST,2,1199.0,2398.0
+ORD-2025-1802,2025-05-06,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,3,2899.0,8697.0
+ORD-2025-1803,2025-06-10,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,West,2,1499.0,2998.0
+ORD-2025-1804,2025-04-11,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,4,749.0,2996.0
+ORD-2025-1805,2025-06-19,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,3,849.0,2547.0
+ORD-2025-1806,2025-08-03,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,West,1,1299.0,1299.0
+ORD-2025-1807,2025-01-02,PROD-EL-05,Noise Cancelling Headphones,Electronics,Central,4,5999.0,23996.0
+ORD-2025-1807,2025-01-02,PROD-EL-06,Smart Fitness Watch,Electronics,Central,1,3999.0,3999.0
+ORD-2025-1808,2025-09-25,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,East,3,849.0,2547.0
+ORD-2025-1809,2025-12-02,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,West,1,499.0,499.0
+ORD-2025-1809,2025-12-02,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,1,2199.0,2199.0
+ORD-2025-1810,2025-12-09,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,2,699.0,1398.0
+ORD-2025-1810,2025-12-09,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,2,499.0,998.0
+ORD-2025-1811,2025-12-14,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,1,1699.0,1699.0
+ORD-2025-1812,2025-07-20,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,3,699.0,2097.0
+ORD-2025-1813,2025-12-14,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,North,4,799.0,3196.0
+ORD-2025-1814,2025-02-07,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,2,749.0,1498.0
+ORD-2025-1815,2025-03-17,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,Central,1,1799.0,1799.0
+ORD-2025-1816,2025-04-12,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,south,2,2299.0,4598.0
+ORD-2025-1816,2025-04-12,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,South,2,1799.0,
+ORD-2025-1817,2025-08-10,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,Central,2,499.0,998.0
+ORD-2025-1817,2025-08-10,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,Central,1,899.0,899.0
+ORD-2025-1818,2025-01-16,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,1,1999.0,1999.0
+ORD-2025-1818,2025-01-16,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,1,499.0,499.0
+ORD-2025-1819,2025-11-10,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-2025-1819,2025-11-10,PROD-EL-08,1TB High-Speed External SSD,Electronics,West,2,7499.0,14998.0
+ORD-2025-1819,2025/11/10,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,West,1,649.0,649.0
+ORD-2025-1820,2025-04-20,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-2025-1821,2025-11-01,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,1,2499.0,2499.0
+ORD-2025-1821,2025-11-01,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,1,4899.0,4899.0
+ORD-2025-1822,2025-07-31,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1823,2025-03-25,PROD-EL-05,Noise Cancelling Headphones,electronics,North,4,5999.0,23996.0
+ORD-2025-1824,2025-05-25,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,West,4,799.0,3196.0
+ORD-2025-1824,2025-05-25,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,West,3,4899.0,14697.0
+ORD-2025-1825,2025-08-11,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,1,1799.0,1799.0
+ORD-2025-1825,2025-08-11,PROD-EL-01,Wireless Ergonomic Mouse,electronics ,East,1,1299.0,
+ORD-2025-1825,2025-08-11,PROD-FA-02,Slim Fit Denim Jeans,Fashion,East,1,1699.0,1699.0
+ORD-2025-1826,2025-11-24,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,West,2,2299.0,4598.0
+ORD-2025-1827,2025-07-06,PROD-EL-05,Noise Cancelling Headphones,Electronics,North,1,5999.0,5999.0
+ORD-2025-1827,2025-07-06,PROD-HK-05,Ceramic Coffee Mug (Set of 4),home & kitchen ,North,1,649.0,649.0
+ORD-2025-1827,2025-07-06,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,North,2,2799.0,5598.0
+ORD-2025-1827,2025-07-06,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,North,2,8999.0,17998.0
+ORD-2025-1828,2025-01-08,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,1,1999.0,1999.0
+ORD-2025-1829,2025-03-18,PROD-BP-03,Salon Grade Ionic Hair Dryer,  Beauty & Personal Care  ,East,4,2299.0,9196.0
+ORD-2025-1830,2025-11-22,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,5,1899.0,9495.0
+ORD-2025-1831,2025-07-12,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,1,2199.0,2199.0
+ORD-2025-1832,2025-10-13,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,south,2,399.0,798.0
+ORD-2025-1833,2025-04-24,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,3,3499.0,10497.0
+ORD-2025-1834,2025-11-14,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,South,1,1299.0,1299.0
+ORD-2025-1835,2025-10-15,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,1,2199.0,2199.0
+ORD-2025-1836,2025-07-28,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,1,1199.0,
+ORD-2025-1836,2025-07-28,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,South,1,899.0,899.0
+ORD-2025-1837,2025-10-14,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,1,899.0,899.0
+ORD-2025-1838,2025-05-13,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,Central,4,8999.0,35996.0
+ORD-2025-1839,2025-10-21,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1840,2025-06-10,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,North,5,1799.0,8995.0
+ORD-2025-1840,2025-06-10,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,2,649.0,1298.0
+ORD-2025-1841,2025-10-01,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1842,2025-09-06,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,Central,1,1899.0,1899.0
+ORD-2025-1842,2025-09-06,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,Central,1,849.0,849.0
+ORD-2025-1843,2025-08-15,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,South,3,2299.0,6897.0
+ORD-2025-1843,2025-08-15,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,2,8999.0,17998.0
+ORD-2025-1844,2025-06-30,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,2899.0
+ORD-2025-1845,2025-06-03,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1845,2025-06-03,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,east,1,399.0,399.0
+ORD-2025-1846,2025/03/04,PROD-EL-08,1TB High-Speed External SSD,Electronics,North,1,7499.0,7499.0
+ORD-2025-1846,2025-03-04,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,1,2299.0,2299.0
+ORD-2025-1847,2025-03-19,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,West,1,649.0,649.0
+ORD-2025-1848,2025-08-17,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,1,2199.0,2199.0
+ORD-2025-1848,2025-08-17,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,West,3,649.0,1947.0
+ORD-2025-1848,2025-08-17,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,West,4,399.0,1596.0
+ORD-2025-1849,2025-11-10,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,East,1,1499.0,1499.0
+ORD-2025-1849,2025-11-10,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,2,1199.0,2398.0
+ORD-2025-1850,2025-08-08,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,2,1199.0,2398.0
+ORD-2025-1851,2025-11-25,PROD-EL-06,Smart Fitness Watch,Electronics,North,1,3999.0,3999.0
+ORD-2025-1851,2025-11-25,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,3,2199.0,6597.0
+ORD-2025-1852,2025-07-17,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1852,2025-07-17,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,South,3,1799.0,5397.0
+ORD-2025-1852,2025-07-17,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,1,1999.0,1999.0
+ORD-2025-1853,2025-08-17,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1854,2025-01-29,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,5,749.0,3745.0
+ORD-2025-1855,2025-12-12,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,South,1,2899.0,2899.0
+ORD-2025-1855,2025-12-12,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,South,2,1499.0,2998.0
+ORD-2025-1856,2025-10-31,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,Central,2,2299.0,4598.0
+ORD-2025-1857,2025-04-21,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,Central,2,2299.0,4598.0
+ORD-2025-1858,2025-09-05,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,4,7499.0,29996.0
+ORD-2025-1859,2025-03-04,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,1,5999.0,5999.0
+ORD-2025-1860,2025-08-09,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,1,2499.0,2499.0
+ORD-2025-1861,2025-06-06,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,1,849.0,849.0
+ORD-2025-1861,2025-06-06,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1861,2025-06-06,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,1,749.0,749.0
+ORD-2025-1862,2025-01-25,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,1,399.0,399.0
+ORD-2025-1862,2025/01/25,PROD-EL-03,Portable Bluetooth Speaker,Electronics,East,1,2199.0,2199.0
+ORD-2025-1863,2025-01-06,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,West,1,749.0,749.0
+ORD-2025-1863,2025-01-06,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,1,399.0,
+ORD-2025-1863,2025-01-06,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,3,1699.0,5097.0
+ORD-2025-1863,2025-01-06,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,West,4,699.0,2796.0
+ORD-2025-1864,2025-06-25,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,2,899.0,1798.0
+ORD-2025-1865,2025-06-25,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,1,899.0,899.0
+ORD-2025-1866,2025-10-15,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,2,499.0,998.0
+ORD-2025-1867,2025-06-30,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,Central,1,1299.0,1299.0
+ORD-2025-1868,2025-10-19,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1868,2025-10-19,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,1,849.0,849.0
+ORD-2025-1868,2025-10-19,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,1,1199.0,1199.0
+ORD-2025-1869,2025-07-28,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,West,1,399.0,399.0
+ORD-2025-1869,2025-07-28,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,1,1199.0,1199.0
+ORD-2025-1870,2025-11-05,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,Central,1,699.0,699.0
+ORD-2025-1871,2025-05-03,PROD-FA-02,Slim Fit Denim Jeans,Fashion,West,1,1699.0,1699.0
+ORD-2025-1872,2025-10-15,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1873,2025-05-10,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,1899.0,1899.0
+ORD-2025-1874,2025-08-09,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,West,1,899.0,899.0
+ORD-2025-1874,2025-08-09,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,West,1,3499.0,3499.0
+ORD-2025-1875,2025-04-12,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,2,1999.0,3998.0
+ORD-2025-1876,2025-01-03,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,North,2,4899.0,9798.0
+ORD-2025-1877,2025-04-15,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,3,699.0,2097.0
+ORD-2025-1878,2025-11-02,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,South,1,3499.0,3499.0
+ORD-2025-1879,2025-04-12,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,East,2,2299.0,4598.0
+ORD-2025-1879,2025-04-12,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,3,4899.0,14697.0
+ORD-2025-1880,2025-06-03,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1880,2025-06-03,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,2,399.0,798.0
+ORD-2025-1881,2025-05-28,PROD-EL-03,Portable Bluetooth Speaker,Electronics,North,1,2199.0,2199.0
+ORD-2025-1881,2025-05-28,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,6,849.0,5094.0
+ORD-2025-1881,2025-05-28,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,5,1999.0,9995.0
+ORD-2025-1881,2025-05-28,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,North,2,649.0,1298.0
+ORD-2025-1882,2025-09-15,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,East,1,899.0,899.0
+ORD-2025-1882,2025-09-15,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,East,1,2799.0,2799.0
+ORD-2025-1882,2025-09-15,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,1899.0,3798.0
+ORD-2025-1883,2025-06-24,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,South,2,1299.0,2598.0
+ORD-2025-1884,2025-11-02,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,North,2,699.0,1398.0
+ORD-2025-1884,2025-11-02,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,3,1899.0,5697.0
+ORD-2025-1884,2025-11-02,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,North,2,899.0,1798.0
+ORD-2025-1885,2025-10-21,PROD-EL-07,Full HD 1080p Webcam,Electronics,North,1,2499.0,2499.0
+ORD-2025-1885,2025-10-21,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,North,3,1199.0,3597.0
+ORD-2025-1886,2025-12-20,PROD-FA-02,Slim Fit Denim Jeans,Fashion,South,2,1699.0,3398.0
+ORD-2025-1887,2025-04-17,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,1,5999.0,5999.0
+ORD-2025-1888,2025-12-31,PROD-EL-02,RGB Mechanical Gaming Keyboard,electronics,East,1,3499.0,3499.0
+ORD-2025-1888,2025-12-31,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,East,2,699.0,1398.0
+ORD-2025-1889,2025-09-04,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,1899.0,3798.0
+ORD-2025-1889,2025-09-04,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,east,1,1299.0,1299.0
+ORD-2025-1890,2025-05-27,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,West,2,1199.0,2398.0
+ORD-2025-1891,2025-04-23,PROD-EL-03,Portable Bluetooth Speaker,Electronics,East,1,2199.0,2199.0
+ORD-2025-1891,2025-04-23,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,East,1,1999.0,1999.0
+ORD-2025-1892,2025/03/21,PROD-EL-06,Smart Fitness Watch,Electronics,East,1,3999.0,3999.0
+ORD-2025-1892,2025-03-21,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,East,2,3499.0,6998.0
+ORD-2025-1893,2025-05-08,PROD-OS-04,Ergonomic High-Back Mesh Chair,office supplies ,South,1,8999.0,
+ORD-2025-1893,2025-05-08,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,1,699.0,699.0
+ORD-2025-1893,2025-05-08,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,1,1999.0,1999.0
+ORD-2025-1894,2025-02-17,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,North,2,849.0,1698.0
+ORD-2025-1895,2025-07-06,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,East,1,2899.0,2899.0
+ORD-2025-1896,2025-09-12,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,Central,3,4899.0,
+ORD-2025-1897,13/08/2025,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,East,1,2299.0,2299.0
+ORD-2025-1898,2025-02-25,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,4,1199.0,4796.0
+ORD-2025-1899,2025-06-22,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies, North ,1,849.0,849.0
+ORD-2025-1899,2025-06-22,PROD-EL-02,RGB Mechanical Gaming Keyboard,Electronics,North,1,3499.0,3499.0
+ORD-2025-1900,2025-10-26,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,Central,2,399.0,798.0
+ORD-2025-1900,2025-10-26,PROD-HK-03,1.8L Stainless Electric Kettle,HOME & KITCHEN,Central,2,1199.0,2398.0
+ORD-2025-1901,2025-12-03,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,1,1199.0,1199.0
+ORD-2025-1902,2025-04-04,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,East,2,2799.0,5598.0
+ORD-2025-1902,2025-04-04,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,East,1,499.0,499.0
+ORD-2025-1903,2025-10-13,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,South,2,4899.0,9798.0
+ORD-2025-1903,2025-10-13,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,South,1,799.0,799.0
+ORD-2025-1904,2025-03-24,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,North,4,399.0,1596.0
+ORD-2025-1904,24/03/2025,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,2,499.0,998.0
+ORD-2025-1905,20/02/2025,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,2,399.0,798.0
+ORD-2025-1905,2025-02-20,PROD-EL-05,Noise Cancelling Headphones,Electronics,SOUTH,1,5999.0,5999.0
+ORD-2025-1906,2025-01-11,PROD-EL-03,Portable Bluetooth Speaker,Electronics,West,1,2199.0,2199.0
+ORD-2025-1907,2025-01-19,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,East,5,499.0,2495.0
+ORD-2025-1907,2025-01-19,PROD-EL-05,Noise Cancelling Headphones,Electronics,East,2,5999.0,11998.0
+ORD-2025-1908,2025-08-30,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,2899.0
+ORD-2025-1909,2025-09-10,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,South,1,399.0,399.0
+ORD-2025-1910,2025-05-23,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,North,6,499.0,2994.0
+ORD-2025-1911,2025-07-13,PROD-EL-05,Noise Cancelling Headphones,Electronics,South,6,5999.0,35994.0
+ORD-2025-1911,2025-07-13,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,2,849.0,1698.0
+ORD-2025-1911,2025-07-13,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,3,8999.0,
+ORD-2025-1912,2025-05-31,PROD-EL-03,Portable Bluetooth Speaker,Electronics,South,2,2199.0,4398.0
+ORD-2025-1913,2025-10-10,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,South,2,2799.0,5598.0
+ORD-2025-1914,2025/03/13,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,East,2,399.0,798.0
+ORD-2025-1914,2025-03-13,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,East,2,1899.0,3798.0
+ORD-2025-1915,2025-11-11,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,South,2,2299.0,4598.0
+ORD-2025-1915,2025-11-11,PROD-EL-05,Noise Cancelling Headphones,Electronics,South,1,5999.0,5999.0
+ORD-2025-1916,2025-01-22,PROD-OS-04,Ergonomic High-Back Mesh Chair,Office Supplies,South,2,8999.0,17998.0
+ORD-2025-1917,27/11/2025,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,5,1499.0,7495.0
+ORD-2025-1918,2025-02-22,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,1,1999.0,1999.0
+ORD-2025-1919,2025-02-03,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,0,399.0,798.0
+ORD-2025-1920,2025-08-22,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,North,3,2299.0,6897.0
+ORD-2025-1920,2025-08-22,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,North,1,1999.0,1999.0
+ORD-2025-1921,2025-07-12,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,East,1,1299.0,1299.0
+ORD-2025-1922,2025-09-12,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,West,2,4899.0,9798.0
+ORD-2025-1922,2025-09-12,PROD-EL-06,Smart Fitness Watch,Electronics,West,2,3999.0,7998.0
+ORD-2025-1923,2025-06-07,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,East,1,1199.0,1199.0
+ORD-2025-1924,2025-10-31,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,East,4,749.0,2996.0
+ORD-2025-1925,2025-01-16,PROD-EL-07,Full HD 1080p Webcam,Electronics,South,2,2499.0,4998.0
+ORD-2025-1926,2025-10-08,PROD-EL-05,Noise Cancelling Headphones,Electronics,South,1,5999.0,5999.0
+ORD-2025-1926,2025-10-08,PROD-EL-03,Portable Bluetooth Speaker,electronics ,South,2,2199.0,4398.0
+ORD-2025-1927,2025-07-10,PROD-BP-04,All-Natural Tea Tree Face Wash,Beauty & Personal Care,South,1,399.0,399.0
+ORD-2025-1927,2025-07-10,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,South,1,1899.0,1899.0
+ORD-2025-1927,2025-07-10,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,South,2,1799.0,3598.0
+ORD-2025-1928,2025-12-17,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1929,2025-08-18,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,6,2299.0,13794.0
+ORD-2025-1929,2025-08-18,PROD-OS-05,Architect LED Desk Lamp,Office Supplies, North ,1,1499.0,1499.0
+ORD-2025-1930,2025-06-29,PROD-FA-03,Fleece Zip-Up Hoodie,Fashion,South,3,1999.0,5997.0
+ORD-2025-1931,2025/06/02,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,South,1,499.0,499.0
+ORD-2025-1931,2025-06-02,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,2,1199.0,2398.0
+ORD-2025-1932,2025-02-25,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,West,2,849.0,
+ORD-2025-1932,2025-02-25,PROD-EL-05,Noise Cancelling Headphones,Electronics,West,5,5999.0,29995.0
+ORD-2025-1932,2025-02-25,PROD-HK-05,Ceramic Coffee Mug (Set of 4),Home & Kitchen,West,1,649.0,649.0
+ORD-2025-1933,2025-07-05,PROD-EL-06,Smart Fitness Watch,Electronics,East,1,3999.0,3999.0
+ORD-2025-1934,2025-05-06,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,2299.0
+ORD-2025-1935,2025-10-23,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,2,749.0,1498.0
+ORD-2025-1936,2025-09-20,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,West,1,1899.0,1899.0
+ORD-2025-1937,2025-10-29,PROD-EL-06,Smart Fitness Watch,Electronics,East,2,3999.0,7998.0
+ORD-2025-1938,2025-11-24,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,1,699.0,699.0
+ORD-2025-1939,2025-03-02,PROD-HK-06,500W High Speed Smoothie Blender,Home & Kitchen,South,1,2299.0,2299.0
+ORD-2025-1940,2025-12-12,PROD-OS-03,A5 Hardcover Dotted Journal,Office Supplies,West,3,499.0,1497.0
+ORD-2025-1941,2025-02-24,PROD-EL-08,1TB High-Speed External SSD,Electronics,South,3,7499.0,22497.0
+ORD-2025-1941,2025-02-24,PROD-FA-01,Organic Cotton Crewneck T-Shirt,Fashion,South,2,699.0,1398.0
+ORD-2025-1942,2025-05-20,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,Central,3,4899.0,14697.0
+ORD-2025-1943,2025-12-25,PROD-OS-05,Architect LED Desk Lamp,Office Supplies,North,1,1499.0,1499.0
+ORD-2025-1943,2025-12-25,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,1899.0,1899.0
+ORD-2025-1944,2025-08-15,PROD-EL-08,1TB High-Speed External SSD,Electronics,East,2,7499.0,14998.0
+ORD-2025-1944,2025-08-15,PROD-FA-04,Breathable Mesh Running Shoes,Fashion,East,1,2799.0,2799.0
+ORD-2025-1944,2025-08-15,PROD-HK-02,Digital Air Fryer 4.5L,Home & Kitchen,East,3,4899.0,14697.0
+ORD-2025-1945,2025-12-31,PROD-BP-02,Sonic Rechargeable Electric Toothbrush,Beauty & Personal Care,North,1,1899.0,1899.0
+ORD-2025-1945,2025-12-31,PROD-FA-02,Slim Fit Denim Jeans,fashion,North,3,1699.0,5097.0
+ORD-2025-1945,2025-12-31,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,1,1299.0,1299.0
+ORD-2025-1945,2025-12-31,PROD-BP-03,Salon Grade Ionic Hair Dryer,Beauty & Personal Care,North,1,2299.0,2299.0
+ORD-2025-1946,2025-07-07,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,East,1,2899.0,
+ORD-2025-1947,2025-09-22,PROD-FA-05,Genuine Leather Reversible Belt,Fashion,Central,1,899.0,899.0
+ORD-2025-1948,2025-07-15,PROD-FA-01,Organic Cotton Crewneck T-Shirt,  Fashion  ,North,3,699.0,2097.0
+ORD-2025-1827,2025-07-06,PROD-EL-05,Noise Cancelling Headphones,Electronics,North,1,5999.0,5999.0
+ORD-2025-1518,2025-10-14,PROD-HK-03,1.8L Stainless Electric Kettle,Home & Kitchen,South,1,1199.0,1199.0
+ORD-2025-1107,2025-08-19,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,1,1299.0,1299.0
+ORD-2025-1523,2025-05-27,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,North,2,749.0,1498.0
+ORD-2025-1071,2025-09-09,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,North,2,1299.0,2598.0
+ORD-2025-1679,2025-04-10,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,North,1,399.0,399.0
+ORD-2025-1038,2025-09-12,PROD-HK-04,3-Piece Non-Stick Cookware Set,Home & Kitchen,North,1,2899.0,2899.0
+ORD-2025-1337,2025-04-20,PROD-BP-05,Complete Beard Grooming Kit,Beauty & Personal Care,North,1,1299.0,
+ORD-2025-1544,2025/07/31,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,6,1799.0,10794.0
+ORD-2025-1292,2025/08/29,PROD-BP-01,Hydrating Vitamin C Face Serum,Beauty & Personal Care,South,1,749.0,749.0
+ORD-2025-1345,2025-10-20,PROD-EL-01,Wireless Ergonomic Mouse,Electronics,east,1,1299.0,1299.0
+ORD-2025-1088,2025-11-30,PROD-OS-01,Dual-Sided PU Leather Desk Mat,Office Supplies,South,3,849.0,2547.0
+ORD-2025-1390,2025-01-14,PROD-OS-02,Premium Gel Pen Set (Pack of 12),Office Supplies,central,1,399.0,399.0
+ORD-2025-1201,2025-07-27,PROD-HK-01,Stainless Steel Insulated Bottle,Home & Kitchen,WEST,1,799.0,799.0
+ORD-2025-1082,2025-02-17,PROD-EL-04,7-in-1 USB-C Hub Adapter,Electronics,East,1,1799.0,1799.0
